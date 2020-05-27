@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a611a4b6-acf0-42e7-9f2e-14cb7b198386" name="192.168.31.150" url="http://192.168.31.150">
+        <fileTransfer host="192.168.31.150" port="22" rootFolder="/home/kai/gobeego" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

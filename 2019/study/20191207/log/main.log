@@ -1,0 +1,3 @@
+{"file":"D:/Code/goang/code/20191207/log/main.go:38","func":"main.main","level":"info","msg":"记录日志到文件","time":"2019-12-07T18:18:05+08:00"}
+{"file":"D:/Code/goang/code/20191207/log/main.go:39","func":"main.main","level":"info","msg":"记录日志到文件","time":"2019-12-07T18:21:05+08:00"}
+{"file":"D:/Code/goang/code/20191207/log/main.go:40","func":"main.main","level":"info","msg":"记录日志到文件","time":"2019-12-07T18:24:17+08:00"}

@@ -1,0 +1,19 @@
+name: Jevon
+age: 1
+sex: true
+hobby:
+  - 足球
+  - 篮球
+  - 乒乓
+score:
+  数学: 90
+  English: 80
+
+arrymap:
+  - a: 1
+  - a: 2
+
+maparry:
+  k:
+    - 1
+    - 2

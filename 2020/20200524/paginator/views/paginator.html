@@ -1,0 +1,23 @@
+{{if gt .paginator.PageNums 1}}
+<ul class="pagination pagination-sm">
+    {{if .paginator.HasPrev}}
+        <li class="page-item"><a class="page-link" href="{{.paginator.PageLinkFirst}}">第一页</a></li>
+        <li class="page-item"><a class="page-link" href="{{.paginator.PageLinkPrev}}">&lt;</a></li>
+    {{else}}
+        <li class="page-item disabled"><a>第一页</a></li>
+        <li class="page-item disabled"><a>&lt;</a></li>
+    {{end}}
+    {{range $index, $page := .paginator.Pages}}
+        <li{{if $.paginator.IsActive .}} class="active page-item"{{end}}>
+            <a class="page-link" href="{{$.paginator.PageLink $page}}">{{$page}}</a>
+        </li>
+    {{end}}
+    {{if .paginator.HasNext}}
+        <li class="page-link" class="page-item"><a href="{{.paginator.PageLinkNext}}">&gt;</a></li>
+        <li class="page-link" class="page-item"><a href="{{.paginator.PageLinkLast}}">最后一页</a></li>
+    {{else}}
+        <li class="page-link" class="page-item disabled"><a>&gt;</a></li>
+        <li class="page-link" class="page-item disabled"><a>最后一页</a></li>
+    {{end}}
+</ul>
+{{end}}

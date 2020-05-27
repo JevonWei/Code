@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>用户显示</title>
+    </head>
+    <body>
+        <span><a href="/task/">任务管理</a></span>
+        <span><a href="/logout/">退出登录</a></span>
+        <span><a href="/user/create/">添加用户</a></span>
+        
+        <form action="/userlist/" method="GET">
+            <p>
+                <input name = "q" type="text" value="{{ .Q }}"/>
+                <input type="submit" value="搜索"/>
+            </p>
+            <table border="1" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>名称</th>
+                        <th>电话</th>
+                        <th>地址</th>
+                        <th>超级管理员</th>
+                        <th>描述</th>
+                        <th>操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{ range .Users }}
+                    <tr>
+                        <td>{{ .Id }}</td>
+                        <td>{{ .Name }}</td>
+                        <td>{{ .Tel }}</td>
+                        <td>{{ .Addr }}</td>
+                        <td>
+                            {{ if .Super }}
+                            Yes
+                            {{ else }}
+                            No
+                            {{ end }}
+                        </td>
+                        <td>{{ .Desc }}</td>
+                        <td>
+                            <a href="/user/modify/?id={{ .Id }}">修改</a>
+                            <a href="/user/delete/?id={{ .Id }}">删除</a>
+                            <a href="/user/tasks/?name={{ .Name }}">任务</a>
+                        </td>
+                    </tr>
+                    {{ else }}
+                    <tr>
+                        <td colspan="7">无数据显示</td>
+                    </tr>
+                    {{ end }}
+                </tbody>
+            </table>
+        </form>
+        
+    </body>
+</html>
+

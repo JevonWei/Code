@@ -1,0 +1,57 @@
+2019/11/16 12:11:10.995 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/16 12:28:03.468 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/16 13:56:08.508 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/16 22:54:35.266 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/16 22:55:09.851 [D] [server.go:2774]  |            ::1|[42m 200 [0m|         18ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 22:55:09.934 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     3.9838ms| nomatch|[44m GET     [0m /favicon.ico
+2019/11/16 23:01:00.956 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/16 23:01:27.170 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.0283ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/16 23:03:15.002 [I] [web.go:70]  初始化admin成功,默认密码：%s P5i2wf 
+2019/11/16 23:03:45.378 [I] [web.go:75]  admin用户已存在，跳过 
+2019/11/16 23:27:28.479 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/16 23:27:40.403 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     5.9819ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:27:40.432 [D] [server.go:2774]  |            ::1|[43m 404 [0m|      993.9µs| nomatch|[44m GET     [0m /auth/js/jquery-3.3.1.min.js
+2019/11/16 23:27:40.434 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     1.9961ms| nomatch|[44m GET     [0m /auth/js/bootstrap.min.js
+2019/11/16 23:27:40.444 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     1.9949ms| nomatch|[44m GET     [0m /auth/js/plugins/pace.min.js
+2019/11/16 23:27:40.445 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    12.9653ms| nomatch|[44m GET     [0m /auth/js/popper.min.js
+2019/11/16 23:27:40.446 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    13.9618ms| nomatch|[44m GET     [0m /auth/js/main.js
+2019/11/16 23:27:40.451 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    20.9426ms|   match|[44m GET     [0m /static/plugins/Font-Awesome-4.7.0/css/font-awesome.min.css
+2019/11/16 23:27:40.467 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    35.4156ms|   match|[44m GET     [0m /static/css/main.css
+2019/11/16 23:27:40.503 [D] [server.go:2774]  |            ::1|[43m 404 [0m|      994.6µs| nomatch|[44m GET     [0m /auth/js/popper.min.js
+2019/11/16 23:27:40.619 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     4.9871ms| nomatch|[44m GET     [0m /auth/js/bootstrap.min.js
+2019/11/16 23:27:40.635 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     8.9773ms|   match|[44m GET     [0m /static/plugins/Font-Awesome-4.7.0/fonts/fontawesome-webfont.woff2
+2019/11/16 23:27:40.681 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     9.9861ms| nomatch|[44m GET     [0m /auth/js/main.js
+2019/11/16 23:27:40.691 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     2.0041ms| nomatch|[44m GET     [0m /auth/js/plugins/pace.min.js
+2019/11/16 23:31:29.473 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     2.9924ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:31:50.646 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    12.9663ms| nomatch|[44m GET     [0m /auth/js/bootstrap.min.js
+2019/11/16 23:32:03.739 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.9947ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:32:10.300 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     3.9891ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:32:34.858 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     3.9941ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:32:34.976 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      1.994ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:32:38.495 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.9831ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:32:44.085 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     2.9918ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:38:53.399 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/16 23:39:17.225 [D] [controller.go:306]  template Execute err: html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:39:17.225 [E] [server.go:2774]  html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:39:17.225 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     4.9878ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:39:48.895 [D] [controller.go:306]  template Execute err: html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:39:48.895 [E] [server.go:2774]  html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:39:48.895 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     2.0243ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:39:50.296 [D] [controller.go:306]  template Execute err: html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:39:50.296 [E] [server.go:2774]  html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:39:50.296 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.9806ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:39:50.386 [D] [controller.go:306]  template Execute err: html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:39:50.386 [E] [server.go:2774]  html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:39:50.386 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      998.3µs|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:39:53.669 [D] [controller.go:306]  template Execute err: html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:39:53.669 [E] [server.go:2774]  html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:39:53.669 [D] [server.go:2774]  |            ::1|[42m 200 [0m|        996µs|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:40:25.637 [D] [controller.go:306]  template Execute err: html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:40:25.637 [E] [server.go:2774]  html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:40:25.637 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      3.988ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:40:26.771 [D] [controller.go:306]  template Execute err: html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:40:26.771 [E] [server.go:2774]  html/template:auth/login.html: "<" in attribute name: "\n                    <h3 class=\""
+2019/11/16 23:40:26.771 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.0003ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:40:50.851 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/16 23:41:13.150 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.9925ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/16 23:41:16.695 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     4.9867ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*

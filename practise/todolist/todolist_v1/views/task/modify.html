@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>任务修改</title>
+    </head>
+    <body>
+        <form action="/task/modify/" method="POST">
+            <div>
+                <input name="id" type="hidden" value="{{ .Id }}"/>
+            </div>
+            <div>
+                <label>任务名称</label>
+                <input name="name" type="text" value="{{ .Name }}"/>
+            </div>
+            <div>
+                <label>执行者</label>
+                <input name="user" type="text" value="{{ .User }}"/>
+            </div>
+            <div>
+                <label>进度</label>
+                <input name="progress" type="range" value="{{ .Progress }}"/>
+            </div>
+            <div>
+                <label>状态</label>
+                <select name="status">
+                    <option value="0", {{ if eq .Status 0 }} selected="selected" {{ end }}>新建</option>
+                    <option value="1", {{ if eq .Status 1 }} selected="selected" {{ end }}>进行中</option>
+                    <option value="2", {{ if eq .Status 2 }} selected="selected" {{ end }}>暂停</option>
+                    <option value="3", {{ if eq .Status 3 }} selected="selected" {{ end }}>完成</option>
+                </select>
+            </div>
+            <div>
+                <label>描述</label>
+                <input name="desc" type="text" value="{{ .Desc }}"/>
+            </div>
+            <div>
+                <input type="submit" value="提交"/>
+            </div>
+        </form>
+    </body>
+</html>

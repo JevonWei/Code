@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Paginator</title>
+        <link rel="stylesheet", href="/static/bootstrap.min.css">
+    </head>
+    <body>
+        <div class="container">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>姓名</th>
+                        <th>年龄</th>
+                        <th>出生日期</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{ range .Users }}
+                    <tr>
+                        <td>{{.Id}}</td>
+                        <td>{{.Name}}</td>
+                        <td>{{.Age}}</td>
+                        <td>{{dateformat .Birthday "2006-01-02"}}</td>
+                    </tr>
+                    {{ end }}
+                </tbody>
+            </table>
+        </div>
+        {{ template "paginator.html" . }}
+    </body>
+</html>

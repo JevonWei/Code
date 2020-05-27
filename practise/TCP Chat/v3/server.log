@@ -1,0 +1,17 @@
+server:2020/04/05 16:00:18 server.go:69: server error:  listen tcp: address 824634056952: invalid port
+server:2020/04/05 16:00:43 server.go:69: server error:  listen tcp: address 824633786664: invalid port
+server:2020/04/05 16:00:49 server.go:69: server error:  listen tcp: address 824634056952: invalid port
+server:2020/04/05 16:02:28 server.go:69: server error:  listen tcp: address 824634056952: invalid port
+server:2020/04/05 16:02:41 server.go:69: server error:  listen tcp: address 824633786632: invalid port
+server:2020/04/05 16:05:49 server.go:77: Server is Listen on: [0.0.0.0:8080]
+server:2020/04/05 16:05:58 server.go:132: Client is Connected:  127.0.0.1:63736
+server:2020/04/05 16:06:27 server.go:132: Client is Connected:  127.0.0.1:63741
+server:2020/04/05 16:06:49 server.go:93: online client:  2
+server:2020/04/05 16:07:07 server.go:140: Client is Closed:  127.0.0.1:63741
+server:2020/04/05 16:07:48 server.go:140: Client is Closed:  127.0.0.1:63736
+server:2020/04/05 16:07:49 server.go:93: online client:  0
+server:2020/04/05 16:08:39 server.go:78: Server is Listen on: [0.0.0.0:8080]
+server:2020/04/05 16:13:15 server.go:77: Server is Listen on: [0.0.0.0:8080]
+server:2020/04/05 16:13:26 server.go:77: Server is Listen on: [0.0.0.0:8080]
+server:2020/04/05 16:13:31 server.go:132: Client is Connected:  127.0.0.1:63837
+server:2020/04/05 16:13:37 server.go:140: Client is Closed:  127.0.0.1:63837

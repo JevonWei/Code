@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>任务列表</title>
+        <style>
+            a:link{color:red;}
+            a:visited{color: rgb(0, 0, 0);}
+            a:hover{color: pink;}
+            a:active{color: #ccc;}
+        </style>
+    </head>
+    <body>
+        <a href="/task/create/">添加任务</a>
+        <form action="/task/" method="GET">
+            <p>
+                <input name = "q" type="text"/>
+                <input type="submit" value="搜索"/>
+            </p>
+            <table border="1" cellspacing="0" >
+                <thead style="background-color:rgb(0, 255, 170)">
+                    <tr>
+                        <th>ID</th>
+                        <th>名称</th>
+                        <th>进度</th>
+                        <th>负责人</th>
+                        <th>描述</th>
+                        <th>状态</th>
+                        <th>操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{ range . }}
+                    <tr>
+                        <td>{{ .Id }}</td>
+                        <td>{{ .Name }}</td>
+                        <td>{{ .Progress }}%</td>
+                        <td>{{ .User }}</td>
+                        <td>{{ .Desc }}</td>
+                        <!-- <td>{{ .Status }}</td> -->
+                        <td>
+                            {{ if eq .Status 0}}
+                            新建
+                            {{ else if eq .Status 1 }}
+                            进行中
+                            {{ else if eq .Status 2 }}
+                            暂停
+                            {{ else if eq .Status 3 }}
+                            完成
+                            {{ end }}
+                        </td>
+                        <td>
+                            <a href="/task/modify/?id={{ .Id }}">修改</a>
+                            <a href="/task/delete/?id={{ .Id }}">删除</a>
+                        </td>
+                    </tr>
+                    {{ else }}
+                    <tr>
+                        <td colspan="7">无数据显示</td>
+                    </tr>
+                    {{ end }}
+                </tbody>
+            </table>
+        </form>
+        
+    </body>
+</html>

@@ -1,0 +1,1702 @@
+task:2020/04/13 21:47:04 task.go:47: Task load error: invalid character '}' looking for beginning of object key string
+task:2020/04/13 21:49:59 task.go:52: Task load error: invalid character '}' looking for beginning of object key string
+task:2020/04/13 21:51:03 task.go:49: Task load error: invalid character '}' looking for beginning of object key string
+task:2020/04/13 21:51:33 task.go:49: Task load error: invalid character '}' looking for beginning of object key string
+task:2020/04/13 21:52:43 task.go:49: Task load error: invalid character '}' looking for beginning of object key string
+task:2020/04/13 21:52:58 task.go:49: Task load error: invalid character '}' looking for beginning of object key string
+task:2020/04/13 21:53:34 task.go:50: Task load error: invalid character '}' looking for beginning of object key string
+task:2020/04/13 21:54:55 task.go:49: Task load error: invalid character '}' looking for beginning of object key string
+task:2020/04/13 21:56:34 task.go:71: load Task error:  invalid character '}' looking for beginning of object key string
+task:2020/04/13 21:58:59 task.go:44: Task load Success
+task:2020/04/13 21:59:00 task.go:70: Task Read Success
+task:2020/04/13 22:19:52 task.go:44: Task load Success
+task:2020/04/13 22:19:52 task.go:70: Task Read Success
+task:2020/04/13 22:23:54 task.go:44: Task load Success
+task:2020/04/13 22:23:54 task.go:70: Task Read Success
+task:2020/04/13 22:23:57 task.go:44: Task load Success
+task:2020/04/13 22:23:57 task.go:70: Task Read Success
+task:2020/04/13 22:34:54 task.go:44: Task load Success
+task:2020/04/13 22:34:54 task.go:70: Task Read Success
+task:2020/04/13 22:35:08 task.go:44: Task load Success
+task:2020/04/13 22:35:08 task.go:44: Task load Success
+task:2020/04/13 22:35:08 task.go:111: Task Create successful
+task:2020/04/13 22:35:08 task.go:63: Task stote Success
+task:2020/04/13 22:35:08 task.go:44: Task load Success
+task:2020/04/13 22:35:08 task.go:70: Task Read Success
+task:2020/04/13 22:36:03 task.go:44: Task load Success
+task:2020/04/13 22:36:03 task.go:70: Task Read Success
+task:2020/04/13 22:36:11 task.go:44: Task load Success
+task:2020/04/13 22:36:11 task.go:44: Task load Success
+task:2020/04/13 22:36:11 task.go:111: Task Create successful
+task:2020/04/13 22:36:11 task.go:63: Task stote Success
+task:2020/04/13 22:36:11 task.go:44: Task load Success
+task:2020/04/13 22:36:11 task.go:70: Task Read Success
+task:2020/04/13 22:36:35 task.go:44: Task load Success
+task:2020/04/13 22:36:35 task.go:44: Task load Success
+task:2020/04/13 22:36:35 task.go:111: Task Create successful
+task:2020/04/13 22:36:35 task.go:63: Task stote Success
+task:2020/04/13 22:36:35 task.go:44: Task load Success
+task:2020/04/13 22:36:35 task.go:70: Task Read Success
+task:2020/04/13 22:37:05 task.go:44: Task load Success
+task:2020/04/13 22:37:05 task.go:70: Task Read Success
+task:2020/04/13 22:37:12 task.go:44: Task load Success
+task:2020/04/13 22:37:12 task.go:44: Task load Success
+task:2020/04/13 22:37:12 task.go:111: Task Create successful
+task:2020/04/13 22:37:12 task.go:63: Task stote Success
+task:2020/04/13 22:37:12 task.go:44: Task load Success
+task:2020/04/13 22:37:12 task.go:70: Task Read Success
+task:2020/04/13 22:39:00 task.go:44: Task load Success
+task:2020/04/13 22:39:00 task.go:70: Task Read Success
+task:2020/04/13 22:39:10 task.go:44: Task load Success
+task:2020/04/13 22:39:10 task.go:44: Task load Success
+task:2020/04/13 22:39:10 task.go:112: Task Create successful
+task:2020/04/13 22:39:10 task.go:63: Task stote Success
+task:2020/04/13 22:39:10 task.go:44: Task load Success
+task:2020/04/13 22:39:10 task.go:70: Task Read Success
+task:2020/04/13 22:43:04 task.go:44: Task load Success
+task:2020/04/13 22:43:04 task.go:70: Task Read Success
+task:2020/04/13 22:43:11 task.go:44: Task load Success
+task:2020/04/13 22:43:11 task.go:44: Task load Success
+task:2020/04/13 22:43:11 task.go:111: Task Create successful
+task:2020/04/13 22:43:11 task.go:63: Task store Success
+task:2020/04/13 22:43:11 task.go:44: Task load Success
+task:2020/04/13 22:43:11 task.go:70: Task Read Success
+task:2020/04/13 23:01:19 task.go:45: Task load Success
+task:2020/04/13 23:01:19 task.go:71: Task Read Success
+task:2020/04/13 23:01:20 task.go:45: Task load Success
+task:2020/04/13 23:01:20 task.go:71: Task Read Success
+task:2020/04/13 23:01:22 task.go:45: Task load Success
+task:2020/04/13 23:01:22 task.go:71: Task Read Success
+task:2020/04/13 23:02:09 task.go:45: Task load Success
+task:2020/04/13 23:02:09 task.go:71: Task Read Success
+task:2020/04/13 23:02:10 task.go:45: Task load Success
+task:2020/04/13 23:02:10 task.go:71: Task Read Success
+task:2020/04/13 23:02:13 task.go:45: Task load Success
+task:2020/04/13 23:02:13 task.go:71: Task Read Success
+task:2020/04/13 23:03:02 task.go:45: Task load Success
+task:2020/04/13 23:03:02 task.go:126: Modify Task Id为: 2
+task:2020/04/13 23:03:12 task.go:45: Task load Success
+task:2020/04/13 23:03:12 task.go:126: Modify Task Id为: 1
+task:2020/04/13 23:03:17 task.go:45: Task load Success
+task:2020/04/13 23:03:17 task.go:71: Task Read Success
+task:2020/04/13 23:03:20 task.go:45: Task load Success
+task:2020/04/13 23:03:20 task.go:126: Modify Task Id为: 1
+task:2020/04/14 21:49:01 task.go:45: Task load Success
+task:2020/04/14 21:49:01 task.go:71: Task Read Success
+task:2020/04/14 21:49:01 task.go:45: Task load Success
+task:2020/04/14 21:49:01 task.go:71: Task Read Success
+task:2020/04/14 21:49:05 task.go:45: Task load Success
+task:2020/04/14 21:49:05 task.go:126: Modify Task Id为: 1
+task:2020/04/14 21:49:05 task.go:45: Task load Success
+task:2020/04/14 21:49:05 task.go:71: Task Read Success
+task:2020/04/14 21:52:17 task.go:45: Task load Success
+task:2020/04/14 21:52:18 task.go:71: Task Read Success
+task:2020/04/14 21:52:18 task.go:45: Task load Success
+task:2020/04/14 21:52:18 task.go:71: Task Read Success
+task:2020/04/14 21:52:19 task.go:45: Task load Success
+task:2020/04/14 21:52:19 task.go:126: Modify Task Name为: Jevon
+task:2020/04/14 21:52:19 task.go:45: Task load Success
+task:2020/04/14 21:52:19 task.go:71: Task Read Success
+task:2020/04/14 21:54:30 task.go:66: Modify Task Post Requrst success
+task:2020/04/14 21:54:30 task.go:45: Task load Success
+task:2020/04/14 21:54:30 task.go:148: Jevon Task 已更改
+task:2020/04/14 21:54:30 task.go:64: Task store Success
+task:2020/04/14 21:54:30 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.TaskModifyAction (task.go:69)
+task:2020/04/14 21:54:33 task.go:45: Task load Success
+task:2020/04/14 21:54:33 task.go:71: Task Read Success
+task:2020/04/14 21:54:33 task.go:45: Task load Success
+task:2020/04/14 21:54:33 task.go:71: Task Read Success
+task:2020/04/14 21:54:34 task.go:45: Task load Success
+task:2020/04/14 21:54:34 task.go:126: Modify Task Name为: Jevon
+task:2020/04/14 21:54:35 task.go:45: Task load Success
+task:2020/04/14 21:54:35 task.go:71: Task Read Success
+task:2020/04/14 21:54:42 task.go:66: Modify Task Post Requrst success
+task:2020/04/14 21:54:42 task.go:45: Task load Success
+task:2020/04/14 21:54:42 task.go:148: Jevon Task 已更改
+task:2020/04/14 21:54:42 task.go:64: Task store Success
+task:2020/04/14 21:54:42 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.TaskModifyAction (task.go:69)
+task:2020/04/14 21:55:45 task.go:45: Task load Success
+task:2020/04/14 21:55:45 task.go:71: Task Read Success
+task:2020/04/14 21:55:45 task.go:45: Task load Success
+task:2020/04/14 21:55:45 task.go:71: Task Read Success
+task:2020/04/14 21:55:47 task.go:45: Task load Success
+task:2020/04/14 21:55:47 task.go:126: Modify Task Name为: Jevon
+task:2020/04/14 21:55:47 task.go:45: Task load Success
+task:2020/04/14 21:55:47 task.go:71: Task Read Success
+task:2020/04/14 21:55:51 task.go:66: Modify Task Post Requrst success
+task:2020/04/14 21:55:51 task.go:45: Task load Success
+task:2020/04/14 21:55:51 task.go:148: Jevon Task 已更改
+task:2020/04/14 21:55:51 task.go:64: Task store Success
+task:2020/04/14 21:55:51 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.TaskModifyAction (task.go:69)
+task:2020/04/14 21:57:34 task.go:45: Task load Success
+task:2020/04/14 21:57:34 task.go:71: Task Read Success
+task:2020/04/14 21:57:34 task.go:45: Task load Success
+task:2020/04/14 21:57:34 task.go:71: Task Read Success
+task:2020/04/14 21:57:36 task.go:45: Task load Success
+task:2020/04/14 21:57:36 task.go:126: Modify Task Name为: Jevon
+task:2020/04/14 21:57:36 task.go:45: Task load Success
+task:2020/04/14 21:57:36 task.go:71: Task Read Success
+task:2020/04/14 21:57:39 task.go:65: Modify Task Post Requrst success
+task:2020/04/14 21:57:39 task.go:45: Task load Success
+task:2020/04/14 21:57:39 task.go:148: Jevon Task 已更改
+task:2020/04/14 21:57:39 task.go:64: Task store Success
+task:2020/04/14 21:57:39 task.go:67: ModifyTask Success
+task:2020/04/14 21:57:39 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.TaskModifyAction (task.go:68)
+task:2020/04/14 22:00:21 task.go:45: Task load Success
+task:2020/04/14 22:00:21 task.go:71: Task Read Success
+task:2020/04/14 22:00:22 task.go:45: Task load Success
+task:2020/04/14 22:00:22 task.go:71: Task Read Success
+task:2020/04/14 22:00:26 task.go:45: Task load Success
+task:2020/04/14 22:00:26 task.go:126: Modify Task Name为: Jevon
+task:2020/04/14 22:00:26 task.go:45: Task load Success
+task:2020/04/14 22:00:26 task.go:71: Task Read Success
+task:2020/04/14 22:00:30 task.go:65: Modify Task Post Requrst success
+task:2020/04/14 22:00:30 task.go:45: Task load Success
+task:2020/04/14 22:00:30 task.go:148: Jevon Task 已更改
+task:2020/04/14 22:00:30 task.go:64: Task store Success
+task:2020/04/14 22:00:30 task.go:69: ModifyTask Post Request xxx
+task:2020/04/14 22:00:30 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.TaskModifyAction (task.go:70)
+task:2020/04/14 22:00:38 task.go:65: Modify Task Post Requrst success
+task:2020/04/14 22:00:38 task.go:45: Task load Success
+task:2020/04/14 22:00:38 task.go:148: Jevon Task 已更改
+task:2020/04/14 22:00:38 task.go:64: Task store Success
+task:2020/04/14 22:00:38 task.go:69: ModifyTask Post Request xxx
+task:2020/04/14 22:00:38 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.TaskModifyAction (task.go:70)
+task:2020/04/14 22:01:14 task.go:45: Task load Success
+task:2020/04/14 22:01:14 task.go:71: Task Read Success
+task:2020/04/14 22:03:13 task.go:45: Task load Success
+task:2020/04/14 22:03:13 task.go:71: Task Read Success
+task:2020/04/14 22:03:13 task.go:45: Task load Success
+task:2020/04/14 22:03:13 task.go:71: Task Read Success
+task:2020/04/14 22:03:14 task.go:45: Task load Success
+task:2020/04/14 22:03:14 task.go:126: Modify Task Name为: wei
+task:2020/04/14 22:03:14 task.go:45: Task load Success
+task:2020/04/14 22:03:14 task.go:71: Task Read Success
+task:2020/04/14 22:03:16 task.go:65: Modify Task Post Requrst success
+task:2020/04/14 22:03:16 task.go:45: Task load Success
+task:2020/04/14 22:03:16 task.go:148: wei Task 已更改
+task:2020/04/14 22:03:16 task.go:64: Task store Success
+task:2020/04/14 22:03:16 task.go:69: ModifyTask Post Request xxx
+task:2020/04/14 22:03:16 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.TaskModifyAction (task.go:70)
+task:2020/04/14 22:05:58 task.go:45: Task load Success
+task:2020/04/14 22:05:58 task.go:71: Task Read Success
+task:2020/04/14 22:06:00 task.go:45: Task load Success
+task:2020/04/14 22:06:00 task.go:71: Task Read Success
+task:2020/04/14 22:06:05 task.go:45: Task load Success
+task:2020/04/14 22:06:05 task.go:126: Modify Task Name为: Jevon
+task:2020/04/14 22:06:05 task.go:45: Task load Success
+task:2020/04/14 22:06:05 task.go:71: Task Read Success
+task:2020/04/14 22:06:08 task.go:65: Modify Task Post Requrst success
+task:2020/04/14 22:06:08 task.go:45: Task load Success
+task:2020/04/14 22:06:08 task.go:148: Jevon Task 已更改
+task:2020/04/14 22:06:08 task.go:64: Task store Success
+task:2020/04/14 22:06:08 task.go:69: ModifyTask Post Request xxx
+task:2020/04/14 22:06:08 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.TaskModifyAction (task.go:70)
+task:2020/04/14 22:11:01 task.go:45: Task load Success
+task:2020/04/14 22:11:01 task.go:71: Task Read Success
+task:2020/04/14 22:11:05 task.go:45: Task load Success
+task:2020/04/14 22:11:05 task.go:71: Task Read Success
+task:2020/04/14 22:11:05 task.go:45: Task load Success
+task:2020/04/14 22:11:05 task.go:71: Task Read Success
+task:2020/04/14 22:11:06 task.go:45: Task load Success
+task:2020/04/14 22:11:06 task.go:126: Modify Task Name为: wei
+task:2020/04/14 22:11:06 task.go:45: Task load Success
+task:2020/04/14 22:11:06 task.go:71: Task Read Success
+task:2020/04/14 22:11:08 task.go:45: Task load Success
+task:2020/04/14 22:11:08 task.go:148: wei Task 已更改
+task:2020/04/14 22:11:08 task.go:64: Task store Success
+task:2020/04/14 22:11:08 task.go:45: Task load Success
+task:2020/04/14 22:11:08 task.go:71: Task Read Success
+task:2020/04/14 22:11:08 task.go:45: Task load Success
+task:2020/04/14 22:11:08 task.go:71: Task Read Success
+task:2020/04/14 22:11:24 task.go:45: Task load Success
+task:2020/04/14 22:11:24 task.go:126: Modify Task Name为: Jevon
+task:2020/04/14 22:11:24 task.go:45: Task load Success
+task:2020/04/14 22:11:24 task.go:71: Task Read Success
+task:2020/04/14 22:11:26 task.go:45: Task load Success
+task:2020/04/14 22:11:26 task.go:148: Jevon Task 已更改
+task:2020/04/14 22:11:26 task.go:64: Task store Success
+task:2020/04/14 22:11:26 task.go:45: Task load Success
+task:2020/04/14 22:11:26 task.go:71: Task Read Success
+task:2020/04/14 22:11:26 task.go:45: Task load Success
+task:2020/04/14 22:11:26 task.go:71: Task Read Success
+task:2020/04/14 22:12:39 task.go:45: Task load Success
+task:2020/04/14 22:12:39 task.go:126: Modify Task Name为: Jevon
+task:2020/04/14 22:12:39 task.go:45: Task load Success
+task:2020/04/14 22:12:39 task.go:71: Task Read Success
+task:2020/04/14 22:12:41 task.go:65: Modify Task Post Requrst success
+task:2020/04/14 22:12:41 task.go:45: Task load Success
+task:2020/04/14 22:12:41 task.go:148: Jevon Task 已更改
+task:2020/04/14 22:12:41 task.go:64: Task store Success
+task:2020/04/14 22:12:41 task.go:69: ModifyTask Post Request xxx
+task:2020/04/14 22:12:41 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.TaskModifyAction (task.go:70)
+task:2020/04/14 22:13:41 task.go:45: Task load Success
+task:2020/04/14 22:13:41 task.go:71: Task Read Success
+task:2020/04/14 22:13:42 task.go:45: Task load Success
+task:2020/04/14 22:13:42 task.go:71: Task Read Success
+task:2020/04/14 22:13:43 task.go:45: Task load Success
+task:2020/04/14 22:13:43 task.go:126: Modify Task Name为: Jevon
+task:2020/04/14 22:13:43 task.go:45: Task load Success
+task:2020/04/14 22:13:43 task.go:71: Task Read Success
+task:2020/04/14 22:13:45 task.go:67: Modify Task Post Requrst success
+task:2020/04/14 22:13:45 task.go:45: Task load Success
+task:2020/04/14 22:13:45 task.go:148: Jevon Task 已更改
+task:2020/04/14 22:13:45 task.go:64: Task store Success
+task:2020/04/14 22:13:45 task.go:71: ModifyTask Post Request xxx
+task:2020/04/14 22:13:45 task.go:45: Task load Success
+task:2020/04/14 22:13:45 task.go:71: Task Read Success
+task:2020/04/14 22:13:45 task.go:45: Task load Success
+task:2020/04/14 22:13:45 task.go:71: Task Read Success
+task:2020/04/14 22:16:23 task.go:45: Task load Success
+task:2020/04/14 22:16:23 task.go:71: Task Read Success
+task:2020/04/14 22:16:23 task.go:45: Task load Success
+task:2020/04/14 22:16:23 task.go:71: Task Read Success
+task:2020/04/14 22:16:24 task.go:45: Task load Success
+task:2020/04/14 22:16:24 task.go:126: Modify Task Name为: Jevon
+task:2020/04/14 22:16:24 task.go:45: Task load Success
+task:2020/04/14 22:16:24 task.go:71: Task Read Success
+task:2020/04/14 22:16:26 task.go:67: Modify Task Post Requrst success
+task:2020/04/14 22:16:26 task.go:45: Task load Success
+task:2020/04/14 22:16:26 task.go:148: Jevon Task 已更改
+task:2020/04/14 22:16:26 task.go:64: Task store Success
+task:2020/04/14 22:16:26 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.TaskModifyAction (task.go:71)
+task:2020/04/14 22:16:28 task.go:45: Task load Success
+task:2020/04/14 22:16:28 task.go:71: Task Read Success
+task:2020/04/14 22:16:59 task.go:45: Task load Success
+task:2020/04/14 22:16:59 task.go:71: Task Read Success
+task:2020/04/14 22:16:59 task.go:45: Task load Success
+task:2020/04/14 22:16:59 task.go:71: Task Read Success
+task:2020/04/14 22:17:01 task.go:45: Task load Success
+task:2020/04/14 22:17:01 task.go:126: Modify Task Name为: Jevon
+task:2020/04/14 22:17:01 task.go:45: Task load Success
+task:2020/04/14 22:17:01 task.go:71: Task Read Success
+task:2020/04/14 22:17:03 task.go:67: Modify Task Post Requrst success
+task:2020/04/14 22:17:03 task.go:45: Task load Success
+task:2020/04/14 22:17:03 task.go:148: Jevon Task 已更改
+task:2020/04/14 22:17:03 task.go:64: Task store Success
+task:2020/04/14 22:17:03 task.go:45: Task load Success
+task:2020/04/14 22:17:03 task.go:71: Task Read Success
+task:2020/04/14 22:17:03 task.go:45: Task load Success
+task:2020/04/14 22:17:03 task.go:71: Task Read Success
+task:2020/04/14 22:20:14 task.go:45: Task load Success
+task:2020/04/14 22:20:14 task.go:71: Task Read Success
+task:2020/04/14 22:20:14 task.go:45: Task load Success
+task:2020/04/14 22:20:14 task.go:71: Task Read Success
+task:2020/04/14 22:20:41 task.go:45: Task load Success
+task:2020/04/14 22:20:41 task.go:126: Modify Task Name为: Jevon
+task:2020/04/14 22:20:41 task.go:45: Task load Success
+task:2020/04/14 22:20:41 task.go:71: Task Read Success
+task:2020/04/14 22:20:51 task.go:45: Task load Success
+task:2020/04/14 22:20:51 task.go:71: Task Read Success
+task:2020/04/14 22:24:00 task.go:45: Task load Success
+task:2020/04/14 22:24:00 task.go:71: Task Read Success
+task:2020/04/14 22:24:00 task.go:45: Task load Success
+task:2020/04/14 22:24:00 task.go:71: Task Read Success
+task:2020/04/14 22:24:02 task.go:45: Task load Success
+task:2020/04/14 22:24:02 task.go:126: Modify Task Name为: Jevon
+task:2020/04/14 22:24:02 task.go:45: Task load Success
+task:2020/04/14 22:24:02 task.go:71: Task Read Success
+task:2020/04/14 22:24:04 task.go:67: Modify Task Post Requrst success
+task:2020/04/14 22:24:04 task.go:45: Task load Success
+task:2020/04/14 22:24:04 task.go:148: Jevon Task 已更改
+task:2020/04/14 22:24:04 task.go:64: Task store Success
+task:2020/04/14 22:24:04 task.go:45: Task load Success
+task:2020/04/14 22:24:04 task.go:71: Task Read Success
+task:2020/04/14 22:24:04 task.go:45: Task load Success
+task:2020/04/14 22:24:04 task.go:71: Task Read Success
+task:2020/04/14 22:24:51 task.go:45: Task load Success
+task:2020/04/14 22:24:51 task.go:71: Task Read Success
+task:2020/04/14 22:24:51 task.go:45: Task load Success
+task:2020/04/14 22:24:51 task.go:71: Task Read Success
+task:2020/04/14 22:24:56 task.go:45: Task load Success
+task:2020/04/14 22:24:56 task.go:71: Task Read Success
+task:2020/04/14 22:24:56 task.go:45: Task load Success
+task:2020/04/14 22:24:56 task.go:71: Task Read Success
+task:2020/04/14 22:31:25 task.go:45: Task load Success
+task:2020/04/14 22:31:25 task.go:71: Task Read Success
+task:2020/04/14 22:31:25 task.go:45: Task load Success
+task:2020/04/14 22:31:25 task.go:71: Task Read Success
+task:2020/04/14 22:31:26 task.go:45: Task load Success
+task:2020/04/14 22:31:26 task.go:71: Task Read Success
+task:2020/04/14 22:31:26 task.go:45: Task load Success
+task:2020/04/14 22:31:26 task.go:71: Task Read Success
+task:2020/04/14 22:31:27 task.go:45: Task load Success
+task:2020/04/14 22:31:27 task.go:71: Task Read Success
+task:2020/04/14 22:31:37 task.go:45: Task load Success
+task:2020/04/14 22:31:37 task.go:45: Task load Success
+task:2020/04/14 22:31:37 task.go:112: 吃饭 Task Create successful
+task:2020/04/14 22:31:37 task.go:64: Task store Success
+task:2020/04/14 22:31:37 task.go:45: Task load Success
+task:2020/04/14 22:31:37 task.go:71: Task Read Success
+task:2020/04/14 22:31:37 task.go:45: Task load Success
+task:2020/04/14 22:31:37 task.go:71: Task Read Success
+task:2020/04/14 22:31:40 task.go:45: Task load Success
+task:2020/04/14 22:31:40 task.go:126: Modify Task Name为: 吃饭
+task:2020/04/14 22:31:40 task.go:45: Task load Success
+task:2020/04/14 22:31:40 task.go:71: Task Read Success
+task:2020/04/14 22:31:42 task.go:67: Modify Task Post Requrst success
+task:2020/04/14 22:31:42 task.go:45: Task load Success
+task:2020/04/14 22:31:42 task.go:148: 吃饭 Task 已更改
+task:2020/04/14 22:31:42 task.go:64: Task store Success
+task:2020/04/14 22:31:42 task.go:45: Task load Success
+task:2020/04/14 22:31:42 task.go:71: Task Read Success
+task:2020/04/14 22:31:42 task.go:45: Task load Success
+task:2020/04/14 22:31:42 task.go:71: Task Read Success
+task:2020/04/14 22:31:43 task.go:45: Task load Success
+task:2020/04/14 22:31:43 task.go:71: Task Read Success
+task:2020/04/14 22:31:43 task.go:45: Task load Success
+task:2020/04/14 22:31:43 task.go:71: Task Read Success
+task:2020/04/14 22:32:06 task.go:79: 发起Delete Task Request
+task:2020/04/14 22:32:06 task.go:45: Task load Success
+task:2020/04/14 22:32:06 task.go:168: Id为3的Task删除成功
+task:2020/04/14 22:32:06 task.go:64: Task store Success
+task:2020/04/14 22:32:06 task.go:45: Task load Success
+task:2020/04/14 22:32:06 task.go:71: Task Read Success
+task:2020/04/14 22:32:06 task.go:45: Task load Success
+task:2020/04/14 22:32:06 task.go:71: Task Read Success
+task:2020/04/14 22:32:09 task.go:45: Task load Success
+task:2020/04/14 22:32:09 task.go:71: Task Read Success
+task:2020/04/14 22:32:09 task.go:45: Task load Success
+task:2020/04/14 22:32:09 task.go:71: Task Read Success
+task:2020/04/14 22:32:15 task.go:79: 发起Delete Task Request
+task:2020/04/14 22:32:15 task.go:45: Task load Success
+task:2020/04/14 22:32:15 task.go:168: Id为0的Task删除成功
+task:2020/04/14 22:32:15 task.go:64: Task store Success
+task:2020/04/14 22:32:15 task.go:45: Task load Success
+task:2020/04/14 22:32:15 task.go:71: Task Read Success
+task:2020/04/14 22:32:15 task.go:45: Task load Success
+task:2020/04/14 22:32:15 task.go:71: Task Read Success
+task:2020/04/14 22:32:19 task.go:45: Task load Success
+task:2020/04/14 22:32:20 task.go:71: Task Read Success
+task:2020/04/14 22:32:20 task.go:45: Task load Success
+task:2020/04/14 22:32:20 task.go:71: Task Read Success
+task:2020/04/14 22:32:22 task.go:45: Task load Success
+task:2020/04/14 22:32:22 task.go:71: Task Read Success
+task:2020/04/14 22:32:22 task.go:45: Task load Success
+task:2020/04/14 22:32:22 task.go:71: Task Read Success
+task:2020/04/14 22:32:49 task.go:79: 发起Delete Task Request
+task:2020/04/14 22:32:49 task.go:45: Task load Success
+task:2020/04/14 22:32:49 task.go:168: Id为0的Task删除成功
+task:2020/04/14 22:32:49 task.go:64: Task store Success
+task:2020/04/14 22:32:49 task.go:45: Task load Success
+task:2020/04/14 22:32:49 task.go:71: Task Read Success
+task:2020/04/14 22:32:49 task.go:45: Task load Success
+task:2020/04/14 22:32:49 task.go:71: Task Read Success
+task:2020/04/14 22:34:19 task.go:45: Task load Success
+task:2020/04/14 22:34:19 task.go:71: Task Read Success
+task:2020/04/14 22:34:19 task.go:45: Task load Success
+task:2020/04/14 22:34:19 task.go:71: Task Read Success
+task:2020/04/14 22:34:20 task.go:79: 发起Delete Task Request
+task:2020/04/14 22:34:20 task.go:45: Task load Success
+task:2020/04/14 22:34:20 task.go:168: Id为0的Task删除成功
+task:2020/04/14 22:34:20 task.go:64: Task store Success
+task:2020/04/14 22:34:20 task.go:45: Task load Success
+task:2020/04/14 22:34:20 task.go:71: Task Read Success
+task:2020/04/14 22:34:20 task.go:45: Task load Success
+task:2020/04/14 22:34:20 task.go:71: Task Read Success
+task:2020/04/14 22:34:23 task.go:45: Task load Success
+task:2020/04/14 22:34:23 task.go:71: Task Read Success
+task:2020/04/14 22:34:27 task.go:45: Task load Success
+task:2020/04/14 22:34:27 task.go:45: Task load Success
+task:2020/04/14 22:34:27 task.go:112: wei Task Create successful
+task:2020/04/14 22:34:27 task.go:64: Task store Success
+task:2020/04/14 22:34:27 task.go:45: Task load Success
+task:2020/04/14 22:34:27 task.go:71: Task Read Success
+task:2020/04/14 22:34:27 task.go:45: Task load Success
+task:2020/04/14 22:34:27 task.go:71: Task Read Success
+task:2020/04/14 22:34:28 task.go:79: 发起Delete Task Request
+task:2020/04/14 22:34:28 task.go:45: Task load Success
+task:2020/04/14 22:34:28 task.go:168: Id为3的Task删除成功
+task:2020/04/14 22:34:28 task.go:64: Task store Success
+task:2020/04/14 22:34:28 task.go:45: Task load Success
+task:2020/04/14 22:34:28 task.go:71: Task Read Success
+task:2020/04/14 22:34:28 task.go:45: Task load Success
+task:2020/04/14 22:34:28 task.go:71: Task Read Success
+task:2020/04/14 22:36:50 task.go:45: Task load Success
+task:2020/04/14 22:36:50 task.go:71: Task Read Success
+task:2020/04/14 22:36:50 task.go:45: Task load Success
+task:2020/04/14 22:36:50 task.go:71: Task Read Success
+task:2020/04/14 22:37:20 task.go:45: Task load Success
+task:2020/04/14 22:37:20 task.go:71: Task Read Success
+task:2020/04/14 22:37:20 task.go:45: Task load Success
+task:2020/04/14 22:37:20 task.go:71: Task Read Success
+task:2020/04/14 22:39:18 task.go:45: Task load Success
+task:2020/04/14 22:39:18 task.go:71: Task Read Success
+task:2020/04/14 22:39:18 task.go:45: Task load Success
+task:2020/04/14 22:39:18 task.go:71: Task Read Success
+task:2020/04/14 22:39:43 task.go:45: Task load Success
+task:2020/04/14 22:39:43 task.go:71: Task Read Success
+task:2020/04/14 22:39:43 task.go:45: Task load Success
+task:2020/04/14 22:39:43 task.go:71: Task Read Success
+task:2020/04/14 22:39:58 task.go:45: Task load Success
+task:2020/04/14 22:39:58 task.go:71: Task Read Success
+task:2020/04/14 22:39:58 task.go:45: Task load Success
+task:2020/04/14 22:39:58 task.go:71: Task Read Success
+task:2020/04/14 22:40:30 task.go:45: Task load Success
+task:2020/04/14 22:40:30 task.go:71: Task Read Success
+task:2020/04/14 22:40:30 task.go:45: Task load Success
+task:2020/04/14 22:40:30 task.go:71: Task Read Success
+task:2020/04/14 22:40:51 task.go:45: Task load Success
+task:2020/04/14 22:40:51 task.go:71: Task Read Success
+task:2020/04/14 22:40:51 task.go:45: Task load Success
+task:2020/04/14 22:40:51 task.go:71: Task Read Success
+task:2020/04/14 22:40:55 task.go:45: Task load Success
+task:2020/04/14 22:40:55 task.go:71: Task Read Success
+task:2020/04/14 22:40:55 task.go:45: Task load Success
+task:2020/04/14 22:40:55 task.go:71: Task Read Success
+task:2020/04/14 22:43:45 task.go:45: Task load Success
+task:2020/04/14 22:43:45 task.go:71: Task Read Success
+task:2020/04/14 22:43:45 task.go:45: Task load Success
+task:2020/04/14 22:43:45 task.go:71: Task Read Success
+task:2020/04/14 22:43:47 task.go:45: Task load Success
+task:2020/04/14 22:43:47 task.go:71: Task Read Success
+task:2020/04/14 22:43:48 task.go:45: Task load Success
+task:2020/04/14 22:43:48 task.go:71: Task Read Success
+task:2020/04/14 22:45:01 task.go:45: Task load Success
+task:2020/04/14 22:45:01 task.go:71: Task Read Success
+task:2020/04/14 22:45:01 task.go:45: Task load Success
+task:2020/04/14 22:45:01 task.go:71: Task Read Success
+task:2020/04/14 22:45:27 task.go:45: Task load Success
+task:2020/04/14 22:45:27 task.go:71: Task Read Success
+task:2020/04/14 22:45:27 task.go:45: Task load Success
+task:2020/04/14 22:45:27 task.go:71: Task Read Success
+task:2020/04/15 21:49:09 task.go:45: Task load Success
+task:2020/04/15 21:49:09 task.go:71: Task Read Success
+task:2020/04/15 21:49:16 task.go:45: Task load Success
+task:2020/04/15 21:49:16 task.go:71: Task Read Success
+task:2020/04/15 21:49:53 task.go:45: Task load Success
+task:2020/04/15 21:49:53 task.go:71: Task Read Success
+task:2020/04/15 22:05:29 task.go:45: Task load Success
+task:2020/04/15 22:05:29 task.go:71: Task Read Success
+task:2020/04/15 22:05:42 task.go:45: Task load Success
+task:2020/04/15 22:05:42 task.go:71: Task Read Success
+task:2020/04/15 22:05:53 task.go:45: Task load Success
+task:2020/04/15 22:05:53 task.go:71: Task Read Success
+task:2020/04/15 22:09:20 task.go:45: Task load Success
+task:2020/04/15 22:09:20 task.go:71: Task Read Success
+task:2020/04/15 22:09:29 task.go:45: Task load Success
+task:2020/04/15 22:09:29 task.go:71: Task Read Success
+task:2020/04/15 22:36:22 user.go:33: User Load error: unexpected end of JSON input
+task:2020/04/15 22:42:41 user.go:33: User Load error: unexpected end of JSON input
+task:2020/04/15 22:44:03 user.go:35: User Load error: unexpected end of JSON input
+task:2020/04/15 22:45:45 user.go:29: users.json数据为空
+task:2020/04/15 22:45:45 user.go:29: users.json数据为空
+task:2020/04/15 22:45:45 user.go:95: wei User Register successful
+task:2020/04/15 22:45:45 user.go:51: User store Success
+task:2020/04/15 22:45:45 task.go:45: Task load Success
+task:2020/04/15 22:45:45 task.go:70: Task Read Success
+task:2020/04/15 23:02:06 user.go:37: User Load Success
+task:2020/04/15 23:02:06 user.go:37: User Load Success
+task:2020/04/15 23:02:06 user.go:94: admin User Register successful
+task:2020/04/15 23:02:06 user.go:53: User store Success
+task:2020/04/15 23:02:06 task.go:50: Task load Success
+task:2020/04/15 23:02:06 task.go:75: Task Read Success
+task:2020/04/15 23:03:24 user.go:37: User Load Success
+task:2020/04/15 23:03:24 user.go:37: User Load Success
+task:2020/04/15 23:03:24 user.go:94: wei001 User Register successful
+task:2020/04/15 23:03:24 user.go:53: User store Success
+task:2020/04/15 23:03:24 task.go:50: Task load Success
+task:2020/04/15 23:03:24 task.go:75: Task Read Success
+task:2020/04/15 23:04:57 task.go:50: Task load Success
+task:2020/04/15 23:04:57 task.go:75: Task Read Success
+task:2020/04/15 23:05:35 user.go:37: User Load Success
+task:2020/04/15 23:05:35 user.go:37: User Load Success
+task:2020/04/15 23:05:35 user.go:95: admin User Register successful
+task:2020/04/15 23:05:35 user.go:53: User store Success
+task:2020/04/15 23:05:35 task.go:50: Task load Success
+task:2020/04/15 23:05:35 task.go:75: Task Read Success
+task:2020/04/16 20:35:24 server.go:3012: http: TLS handshake error from [::1]:52373: remote error: tls: unknown certificate
+task:2020/04/16 20:35:24 server.go:3012: http: TLS handshake error from [::1]:52374: remote error: tls: unknown certificate
+task:2020/04/16 20:35:25 server.go:3012: http: TLS handshake error from [::1]:52375: remote error: tls: unknown certificate
+task:2020/04/16 20:35:25 server.go:3012: http: TLS handshake error from [::1]:52376: remote error: tls: unknown certificate
+task:2020/04/16 20:35:27 server.go:3012: http: TLS handshake error from [::1]:52363: EOF
+task:2020/04/16 20:35:27 server.go:3012: http: TLS handshake error from [::1]:52378: remote error: tls: unknown certificate
+task:2020/04/16 20:35:27 server.go:3012: http: TLS handshake error from [::1]:52379: remote error: tls: unknown certificate
+task:2020/04/16 20:35:38 server.go:3012: http: TLS handshake error from [::1]:52380: EOF
+task:2020/04/16 21:19:20 user.go:37: User Load Success
+task:2020/04/16 21:19:20 user.go:108: wei 用户已存在
+task:2020/04/16 21:19:20 user.go:37: User Load Success
+task:2020/04/16 21:19:20 user.go:37: User Load Success
+task:2020/04/16 21:19:20 user.go:95: wei User Register successful
+task:2020/04/16 21:19:20 user.go:53: User store Success
+task:2020/04/16 21:19:20 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.Register (user.go:56)
+task:2020/04/16 21:29:33 user.go:37: User Load Success
+task:2020/04/16 21:29:33 user.go:132: 用户dan不存在，请先注册账号
+task:2020/04/16 21:32:29 user.go:37: User Load Success
+task:2020/04/16 21:32:29 user.go:132: 用户dan不存在，请先注册账号
+task:2020/04/16 21:32:29 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:31)
+task:2020/04/16 21:33:07 user.go:37: User Load Success
+task:2020/04/16 21:33:07 user.go:127: 用户admin验证失败
+task:2020/04/16 21:33:07 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:31)
+task:2020/04/16 21:34:27 user.go:37: User Load Success
+task:2020/04/16 21:34:27 user.go:127: 用户admin验证失败
+task:2020/04/16 21:34:27 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:31)
+task:2020/04/16 21:36:09 user.go:37: User Load Success
+task:2020/04/16 21:36:09 user.go:127: 用户admin验证失败
+task:2020/04/16 21:36:09 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:31)
+task:2020/04/16 21:39:41 user.go:37: User Load Success
+task:2020/04/16 21:39:41 user.go:127: 用户admin验证失败
+task:2020/04/16 21:39:41 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:31)
+task:2020/04/16 21:42:30 user.go:37: User Load Success
+task:2020/04/16 21:42:30 user.go:128: 用户admin验证失败
+task:2020/04/16 21:42:30 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:31)
+task:2020/04/16 21:42:53 user.go:37: User Load Success
+task:2020/04/16 21:42:53 user.go:128: 用户admin验证失败
+task:2020/04/16 21:42:53 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:31)
+task:2020/04/16 21:43:46 user.go:37: User Load Success
+task:2020/04/16 21:43:46 user.go:125: 用户admin登录成功
+task:2020/04/16 21:43:46 task.go:50: Task load Success
+task:2020/04/16 21:43:46 task.go:75: Task Read Success
+task:2020/04/16 21:45:53 user.go:37: User Load Success
+task:2020/04/16 21:45:53 user.go:108: wei 用户已存在
+task:2020/04/16 21:45:53 user.go:37: User Load Success
+task:2020/04/16 21:45:53 user.go:37: User Load Success
+task:2020/04/16 21:45:53 user.go:95: wei User Register successful
+task:2020/04/16 21:45:53 user.go:53: User store Success
+task:2020/04/16 21:45:53 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.Register (user.go:60)
+task:2020/04/16 21:47:35 user.go:37: User Load Success
+task:2020/04/16 21:47:35 user.go:132: 用户dan不存在，请先注册账号
+task:2020/04/16 21:47:35 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:31)
+task:2020/04/16 21:47:46 user.go:37: User Load Success
+task:2020/04/16 21:47:46 user.go:37: User Load Success
+task:2020/04/16 21:47:46 user.go:37: User Load Success
+task:2020/04/16 21:47:46 user.go:95: dan User Register successful
+task:2020/04/16 21:47:46 user.go:53: User store Success
+task:2020/04/16 21:48:22 user.go:37: User Load Success
+task:2020/04/16 21:48:22 user.go:108: wei 用户已存在
+task:2020/04/16 21:49:43 user.go:38: User Load Success
+task:2020/04/16 21:49:43 user.go:125: 用户admin登录成功
+task:2020/04/16 21:49:43 task.go:50: Task load Success
+task:2020/04/16 21:49:43 task.go:75: Task Read Success
+task:2020/04/16 21:50:55 user.go:38: User Load Success
+task:2020/04/16 21:50:55 user.go:125: 用户admin登录成功
+task:2020/04/16 21:50:55 task.go:50: Task load Success
+task:2020/04/16 21:50:55 task.go:75: Task Read Success
+task:2020/04/16 21:56:11 user.go:38: User Load Success
+task:2020/04/16 21:56:11 user.go:140: 用户admin登录成功
+task:2020/04/16 21:56:11 task.go:50: Task load Success
+task:2020/04/16 21:56:11 task.go:75: Task Read Success
+task:2020/04/16 21:57:56 user.go:38: User Load Success
+task:2020/04/16 21:57:56 user.go:109: wei 用户已存在
+task:2020/04/16 21:58:45 user.go:38: User Load Success
+task:2020/04/16 21:58:45 user.go:139: 用户admin登录成功
+task:2020/04/16 21:58:45 user.go:38: User Load Success
+task:2020/04/16 21:58:45 user.go:122: admin为管理员用户
+task:2020/04/16 21:58:45 task.go:50: Task load Success
+task:2020/04/16 21:58:45 task.go:75: Task Read Success
+task:2020/04/16 22:29:42 user.go:38: User Load Success
+task:2020/04/16 22:29:42 user.go:140: 用户admin登录成功
+task:2020/04/16 22:29:42 user.go:38: User Load Success
+task:2020/04/16 22:29:42 user.go:123: admin为管理员用户
+task:2020/04/16 22:29:42 user.go:38: User Load Success
+task:2020/04/16 22:29:42 user.go:123: admin为管理员用户
+task:2020/04/16 22:29:42 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:31)
+task:2020/04/16 22:29:42 user.go:38: User Load Success
+task:2020/04/16 22:31:32 user.go:38: User Load Success
+task:2020/04/16 22:33:12 user.go:38: User Load Success
+task:2020/04/18 21:54:21 user.go:38: User Load Success
+task:2020/04/18 21:54:21 user.go:140: 用户admin登录成功
+task:2020/04/18 21:54:21 user.go:38: User Load Success
+task:2020/04/18 21:54:21 user.go:123: admin为管理员用户
+task:2020/04/18 21:54:21 user.go:38: User Load Success
+task:2020/04/18 21:54:21 user.go:123: admin为管理员用户
+task:2020/04/18 21:54:21 user.go:38: User Load Success
+task:2020/04/18 21:56:08 user.go:38: User Load Success
+task:2020/04/18 21:57:24 user.go:38: User Load Success
+task:2020/04/18 21:57:34 user.go:38: User Load Success
+task:2020/04/18 22:04:44 task.go:50: Task load Success
+task:2020/04/18 22:04:44 task.go:75: Task Read Success
+task:2020/04/18 22:10:00 user.go:38: User Load Success
+task:2020/04/18 22:25:12 user.go:38: User Load Success
+task:2020/04/18 22:25:20 user.go:38: User Load Success
+task:2020/04/18 22:25:20 user.go:140: 用户admin登录成功
+task:2020/04/18 22:25:20 user.go:38: User Load Success
+task:2020/04/18 22:25:20 user.go:123: admin为管理员用户
+task:2020/04/18 22:25:20 user.go:38: User Load Success
+task:2020/04/18 22:25:20 user.go:123: admin为管理员用户
+task:2020/04/18 22:25:20 user.go:38: User Load Success
+task:2020/04/18 22:25:27 user.go:38: User Load Success
+task:2020/04/18 22:25:27 user.go:140: 用户admin登录成功
+task:2020/04/18 22:25:27 user.go:38: User Load Success
+task:2020/04/18 22:25:27 user.go:123: admin为管理员用户
+task:2020/04/18 22:25:27 user.go:38: User Load Success
+task:2020/04/18 22:25:27 user.go:123: admin为管理员用户
+task:2020/04/18 22:25:27 user.go:38: User Load Success
+task:2020/04/18 22:32:22 user.go:38: User Load Success
+task:2020/04/18 22:34:23 user.go:38: User Load Success
+task:2020/04/18 22:34:23 user.go:38: User Load Success
+task:2020/04/18 22:34:23 user.go:97: wei User Register successful
+task:2020/04/18 22:34:23 user.go:54: User store Success
+task:2020/04/18 22:34:23 user.go:38: User Load Success
+task:2020/04/18 22:36:10 user.go:38: User Load Success
+task:2020/04/18 22:36:19 user.go:38: User Load Success
+task:2020/04/18 22:36:19 user.go:114: wei 用户已存在
+task:2020/04/18 22:36:29 user.go:38: User Load Success
+task:2020/04/18 22:41:25 user.go:38: User Load Success
+task:2020/04/18 22:43:05 user.go:38: User Load Success
+task:2020/04/18 22:55:06 user.go:38: User Load Success
+task:2020/04/18 22:55:06 user.go:144: 用户admin登录成功
+task:2020/04/18 22:55:06 user.go:38: User Load Success
+task:2020/04/18 22:55:06 user.go:127: admin为管理员用户
+task:2020/04/18 22:55:06 user.go:38: User Load Success
+task:2020/04/18 22:55:10 user.go:38: User Load Success
+task:2020/04/18 22:55:10 user.go:144: 用户admin登录成功
+task:2020/04/18 22:55:10 user.go:38: User Load Success
+task:2020/04/18 22:55:10 user.go:127: admin为管理员用户
+task:2020/04/18 22:55:10 user.go:38: User Load Success
+task:2020/04/18 22:56:06 user.go:38: User Load Success
+task:2020/04/18 22:56:07 task.go:21: List User Task
+task:2020/04/18 22:56:07 task.go:50: Task load Success
+task:2020/04/18 22:56:36 task.go:50: Task load Success
+task:2020/04/18 22:56:36 task.go:50: Task load Success
+task:2020/04/18 22:56:36 task.go:134: hello Task Create successful
+task:2020/04/18 22:56:36 task.go:68: Task store Success
+task:2020/04/18 22:57:27 user.go:38: User Load Success
+task:2020/04/18 22:57:27 user.go:144: 用户admin登录成功
+task:2020/04/18 22:57:27 user.go:38: User Load Success
+task:2020/04/18 22:57:27 user.go:127: admin为管理员用户
+task:2020/04/18 22:57:27 user.go:38: User Load Success
+task:2020/04/18 22:57:31 task.go:21: List User Task
+task:2020/04/18 22:57:31 task.go:50: Task load Success
+task:2020/04/18 22:57:51 task.go:50: Task load Success
+task:2020/04/18 22:57:51 task.go:50: Task load Success
+task:2020/04/18 22:57:51 task.go:134: hello Task Create successful
+task:2020/04/18 22:57:51 task.go:68: Task store Success
+task:2020/04/18 22:58:05 user.go:38: User Load Success
+task:2020/04/18 22:58:05 user.go:144: 用户admin登录成功
+task:2020/04/18 22:58:05 user.go:38: User Load Success
+task:2020/04/18 22:58:05 user.go:127: admin为管理员用户
+task:2020/04/18 22:58:05 user.go:38: User Load Success
+task:2020/04/18 22:58:07 task.go:21: List User Task
+task:2020/04/18 22:58:07 task.go:50: Task load Success
+task:2020/04/18 22:58:21 task.go:50: Task load Success
+task:2020/04/18 22:58:21 task.go:50: Task load Success
+task:2020/04/18 22:58:21 task.go:134: hello Task Create successful
+task:2020/04/18 22:58:21 task.go:68: Task store Success
+task:2020/04/18 22:58:21 task.go:21: List User Task
+task:2020/04/18 22:58:21 task.go:50: Task load Success
+task:2020/04/18 22:58:43 task.go:50: Task load Success
+task:2020/04/18 22:58:43 task.go:75: Task Read Success
+task:2020/04/19 13:54:55 user.go:38: User Load Success
+task:2020/04/19 13:54:55 user.go:144: 用户admin登录成功
+task:2020/04/19 13:54:55 user.go:38: User Load Success
+task:2020/04/19 13:54:55 user.go:127: admin为管理员用户
+task:2020/04/19 13:54:55 user.go:38: User Load Success
+task:2020/04/19 13:56:17 user.go:38: User Load Success
+task:2020/04/19 13:56:34 user.go:38: User Load Success
+task:2020/04/19 13:56:58 user.go:38: User Load Success
+task:2020/04/19 14:04:24 user.go:38: User Load Success
+task:2020/04/19 14:04:31 user.go:38: User Load Success
+task:2020/04/19 14:04:47 user.go:38: User Load Success
+task:2020/04/19 14:04:54 user.go:38: User Load Success
+task:2020/04/19 14:05:02 user.go:38: User Load Success
+task:2020/04/19 14:10:36 user.go:38: User Load Success
+task:2020/04/19 14:10:44 user.go:38: User Load Success
+task:2020/04/19 14:17:11 user.go:38: User Load Success
+task:2020/04/19 14:17:12 user.go:38: User Load Success
+task:2020/04/19 14:17:14 user.go:38: User Load Success
+task:2020/04/19 14:18:13 user.go:38: User Load Success
+task:2020/04/19 14:18:18 user.go:38: User Load Success
+task:2020/04/19 14:18:22 user.go:38: User Load Success
+task:2020/04/19 14:18:57 task.go:50: Task load Success
+task:2020/04/19 14:18:57 task.go:75: Task Read Success
+task:2020/04/19 14:20:44 task.go:50: Task load Success
+task:2020/04/19 14:20:44 task.go:75: Task Read Success
+task:2020/04/19 14:20:52 user.go:38: User Load Success
+task:2020/04/19 14:21:28 user.go:38: User Load Success
+task:2020/04/19 14:21:33 task.go:50: Task load Success
+task:2020/04/19 14:21:33 task.go:75: Task Read Success
+task:2020/04/19 14:21:36 task.go:50: Task load Success
+task:2020/04/19 14:21:39 task.go:50: Task load Success
+task:2020/04/19 14:21:42 task.go:50: Task load Success
+task:2020/04/19 14:21:42 task.go:75: Task Read Success
+task:2020/04/19 22:32:09 task.go:50: Task load Success
+task:2020/04/19 22:32:09 task.go:75: Task Read Success
+task:2020/04/19 22:32:21 task.go:50: Task load Success
+task:2020/04/19 22:32:21 task.go:75: Task Read Success
+task:2020/04/19 22:32:24 task.go:50: Task load Success
+task:2020/04/19 22:32:24 task.go:75: Task Read Success
+task:2020/04/19 22:32:33 task.go:50: Task load Success
+task:2020/04/19 22:32:33 task.go:75: Task Read Success
+task:2020/04/19 22:32:38 task.go:50: Task load Success
+task:2020/04/19 22:32:38 task.go:75: Task Read Success
+task:2020/04/19 22:33:36 task.go:50: Task load Success
+task:2020/04/19 22:33:48 task.go:50: Task load Success
+task:2020/04/19 22:33:48 task.go:75: Task Read Success
+task:2020/04/19 22:33:50 task.go:50: Task load Success
+task:2020/04/19 22:33:54 task.go:50: Task load Success
+task:2020/04/19 22:33:54 task.go:75: Task Read Success
+task:2020/04/19 22:33:57 task.go:50: Task load Success
+task:2020/04/19 22:33:59 task.go:50: Task load Success
+task:2020/04/19 22:33:59 task.go:75: Task Read Success
+task:2020/04/19 22:39:22 user.go:39: User Load Success
+task:2020/04/19 22:39:30 user.go:39: User Load Success
+task:2020/04/19 22:39:45 user.go:39: User Load Success
+task:2020/04/19 22:41:11 user.go:39: User Load Success
+task:2020/04/19 22:41:17 user.go:39: User Load Success
+task:2020/04/19 22:41:49 user.go:39: User Load Success
+task:2020/04/19 22:41:52 user.go:39: User Load Success
+task:2020/04/19 22:41:54 user.go:39: User Load Success
+task:2020/04/19 22:41:56 user.go:39: User Load Success
+task:2020/04/19 22:42:53 user.go:39: User Load Success
+task:2020/04/19 22:42:54 user.go:39: User Load Success
+task:2020/04/19 22:44:08 user.go:39: User Load Success
+task:2020/04/19 22:44:10 user.go:39: User Load Success
+task:2020/04/19 22:50:29 user.go:39: User Load Success
+task:2020/04/19 22:50:34 user.go:39: User Load Success
+task:2020/04/19 22:50:37 user.go:39: User Load Success
+task:2020/04/19 22:50:39 user.go:39: User Load Success
+task:2020/04/19 22:51:42 user.go:39: User Load Success
+task:2020/04/19 22:51:44 user.go:39: User Load Success
+task:2020/04/19 22:51:47 user.go:39: User Load Success
+task:2020/04/20 22:30:02 user.go:40: User Load Success
+task:2020/04/20 22:30:02 user.go:168: 用户wei验证失败
+task:2020/04/20 22:30:02 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:44)
+task:2020/04/20 22:30:58 user.go:40: User Load Success
+task:2020/04/20 22:30:58 user.go:168: 用户wei验证失败
+task:2020/04/20 22:30:58 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:44)
+task:2020/04/20 22:31:02 user.go:40: User Load Success
+task:2020/04/20 22:31:02 user.go:168: 用户wei验证失败
+task:2020/04/20 22:31:02 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:44)
+task:2020/04/20 22:31:13 user.go:40: User Load Success
+task:2020/04/20 22:31:13 user.go:168: 用户wei验证失败
+task:2020/04/20 22:31:13 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:44)
+task:2020/04/20 22:31:16 user.go:40: User Load Success
+task:2020/04/20 22:31:16 user.go:168: 用户wei验证失败
+task:2020/04/20 22:31:16 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:44)
+task:2020/04/20 22:31:40 user.go:40: User Load Success
+task:2020/04/20 22:31:40 user.go:168: 用户wei验证失败
+task:2020/04/20 22:31:40 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:44)
+task:2020/04/20 22:31:43 user.go:40: User Load Success
+task:2020/04/20 22:31:43 user.go:168: 用户wei验证失败
+task:2020/04/20 22:31:43 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:44)
+task:2020/04/20 22:32:09 user.go:40: User Load Success
+task:2020/04/20 22:32:09 user.go:168: 用户wei验证失败
+task:2020/04/20 22:32:09 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:44)
+task:2020/04/20 22:32:14 user.go:40: User Load Success
+task:2020/04/20 22:32:14 user.go:168: 用户wei验证失败
+task:2020/04/20 22:32:14 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:44)
+task:2020/04/20 22:33:43 user.go:40: User Load Success
+task:2020/04/20 22:33:43 user.go:168: 用户wei验证失败
+task:2020/04/20 22:33:43 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:44)
+task:2020/04/20 22:34:38 user.go:40: User Load Success
+task:2020/04/20 22:34:39 user.go:168: 用户wei验证失败
+task:2020/04/20 22:34:39 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:44)
+task:2020/04/24 22:15:00 user.go:40: User Load Success
+task:2020/04/24 22:15:00 user.go:165: 用户admin登录成功
+task:2020/04/24 22:15:00 server.go:3012: http: panic serving [::1]:53129: assignment to entry in nil map
+goroutine 19 [running]:
+net/http.(*conn).serve.func1(0xc000040960)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832260)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e900, 0xc0001389a0, 0xc000142900)
+	d:/Code/goang/practise/todolist/controllers/user.go:33 +0x242
+net/http.HandlerFunc.ServeHTTP(0x7d9998, 0x83e900, 0xc0001389a0, 0xc000142900)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e900, 0xc0001389a0, 0xc000142900)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004cb60, 0x83e900, 0xc0001389a0, 0xc000142900)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000040960, 0x83eec0, 0xc00004e440)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:15:00 user.go:40: User Load Success
+task:2020/04/24 22:15:00 user.go:165: 用户admin登录成功
+task:2020/04/24 22:15:00 server.go:3012: http: panic serving [::1]:53310: assignment to entry in nil map
+goroutine 12 [running]:
+net/http.(*conn).serve.func1(0xc0001501e0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832260)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e900, 0xc0000fc2a0, 0xc000142a00)
+	d:/Code/goang/practise/todolist/controllers/user.go:33 +0x242
+net/http.HandlerFunc.ServeHTTP(0x7d9998, 0x83e900, 0xc0000fc2a0, 0xc000142a00)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e900, 0xc0000fc2a0, 0xc000142a00)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004cb60, 0x83e900, 0xc0000fc2a0, 0xc000142a00)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc0001501e0, 0x83eec0, 0xc0000324c0)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:15:00 user.go:40: User Load Success
+task:2020/04/24 22:15:00 user.go:165: 用户admin登录成功
+task:2020/04/24 22:15:00 server.go:3012: http: panic serving [::1]:53311: assignment to entry in nil map
+goroutine 53 [running]:
+net/http.(*conn).serve.func1(0xc00016e140)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832260)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e900, 0xc0000fc380, 0xc000120f00)
+	d:/Code/goang/practise/todolist/controllers/user.go:33 +0x242
+net/http.HandlerFunc.ServeHTTP(0x7d9998, 0x83e900, 0xc0000fc380, 0xc000120f00)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e900, 0xc0000fc380, 0xc000120f00)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004cb60, 0x83e900, 0xc0000fc380, 0xc000120f00)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc00016e140, 0x83eec0, 0xc00010a940)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:22:27 user.go:40: User Load Success
+task:2020/04/24 22:22:27 user.go:179: 用户admin登录成功
+task:2020/04/24 22:22:27 user.go:40: User Load Success
+task:2020/04/24 22:22:27 server.go:3012: http: panic serving [::1]:53836: assignment to entry in nil map
+goroutine 4 [running]:
+net/http.(*conn).serve.func1(0xc0000e6000)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832340)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e9e0, 0xc00014c0e0, 0xc00013c300)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9990, 0x83e9e0, 0xc00014c0e0, 0xc00013c300)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e9e0, 0xc00014c0e0, 0xc00013c300)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc0000489c0, 0x83e9e0, 0xc00014c0e0, 0xc00013c300)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc0000e6000, 0x83efa0, 0xc000032080)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:22:27 user.go:40: User Load Success
+task:2020/04/24 22:22:27 user.go:179: 用户admin登录成功
+task:2020/04/24 22:22:27 user.go:40: User Load Success
+task:2020/04/24 22:22:27 server.go:3012: http: panic serving [::1]:53835: assignment to entry in nil map
+goroutine 19 [running]:
+net/http.(*conn).serve.func1(0xc000040b40)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832340)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e9e0, 0xc00014c1c0, 0xc0000d0100)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9990, 0x83e9e0, 0xc00014c1c0, 0xc0000d0100)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e9e0, 0xc00014c1c0, 0xc0000d0100)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc0000489c0, 0x83e9e0, 0xc00014c1c0, 0xc0000d0100)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000040b40, 0x83efa0, 0xc00004e440)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:22:27 user.go:40: User Load Success
+task:2020/04/24 22:22:27 user.go:179: 用户admin登录成功
+task:2020/04/24 22:22:27 user.go:40: User Load Success
+task:2020/04/24 22:22:27 server.go:3012: http: panic serving [::1]:53844: assignment to entry in nil map
+goroutine 24 [running]:
+net/http.(*conn).serve.func1(0xc000040e60)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832340)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e9e0, 0xc00011c1c0, 0xc00013c400)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9990, 0x83e9e0, 0xc00011c1c0, 0xc00013c400)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e9e0, 0xc00011c1c0, 0xc00013c400)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc0000489c0, 0x83e9e0, 0xc00011c1c0, 0xc00013c400)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000040e60, 0x83efa0, 0xc000116300)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:25:38 user.go:40: User Load Success
+task:2020/04/24 22:25:38 user.go:179: 用户admin登录成功
+task:2020/04/24 22:25:38 user.go:40: User Load Success
+task:2020/04/24 22:25:38 server.go:3012: http: panic serving [::1]:54055: assignment to entry in nil map
+goroutine 19 [running]:
+net/http.(*conn).serve.func1(0xc000040b40)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832340)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e9e0, 0xc0000e4000, 0xc0000d0100)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9990, 0x83e9e0, 0xc0000e4000, 0xc0000d0100)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e9e0, 0xc0000e4000, 0xc0000d0100)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c8f0, 0x83e9e0, 0xc0000e4000, 0xc0000d0100)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000040b40, 0x83efa0, 0xc00004e480)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:25:53 user.go:40: User Load Success
+task:2020/04/24 22:25:53 user.go:182: 用户admin验证失败
+task:2020/04/24 22:25:53 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:49)
+task:2020/04/24 22:25:57 user.go:40: User Load Success
+task:2020/04/24 22:25:57 user.go:179: 用户admin登录成功
+task:2020/04/24 22:25:57 user.go:40: User Load Success
+task:2020/04/24 22:25:57 server.go:3012: http: panic serving [::1]:54056: assignment to entry in nil map
+goroutine 4 [running]:
+net/http.(*conn).serve.func1(0xc0000f6000)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832340)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e9e0, 0xc0000e42a0, 0xc0000fc300)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9990, 0x83e9e0, 0xc0000e42a0, 0xc0000fc300)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e9e0, 0xc0000e42a0, 0xc0000fc300)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c8f0, 0x83e9e0, 0xc0000e42a0, 0xc0000fc300)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc0000f6000, 0x83efa0, 0xc000032080)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:25:57 user.go:40: User Load Success
+task:2020/04/24 22:25:57 user.go:179: 用户admin登录成功
+task:2020/04/24 22:25:57 user.go:40: User Load Success
+task:2020/04/24 22:25:57 server.go:3012: http: panic serving [::1]:54074: assignment to entry in nil map
+goroutine 38 [running]:
+net/http.(*conn).serve.func1(0xc00015a0a0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832340)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e9e0, 0xc0000e4380, 0xc0000fc400)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9990, 0x83e9e0, 0xc0000e4380, 0xc0000fc400)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e9e0, 0xc0000e4380, 0xc0000fc400)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c8f0, 0x83e9e0, 0xc0000e4380, 0xc0000fc400)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc00015a0a0, 0x83efa0, 0xc000032480)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:25:57 user.go:40: User Load Success
+task:2020/04/24 22:25:57 user.go:179: 用户admin登录成功
+task:2020/04/24 22:25:57 user.go:40: User Load Success
+task:2020/04/24 22:25:57 server.go:3012: http: panic serving [::1]:54075: assignment to entry in nil map
+goroutine 10 [running]:
+net/http.(*conn).serve.func1(0xc0000f61e0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832340)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e9e0, 0xc0001642a0, 0xc0000d0800)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9990, 0x83e9e0, 0xc0001642a0, 0xc0000d0800)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e9e0, 0xc0001642a0, 0xc0000d0800)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c8f0, 0x83e9e0, 0xc0001642a0, 0xc0000d0800)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc0000f61e0, 0x83efa0, 0xc00004eac0)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:27:13 user.go:40: User Load Success
+task:2020/04/24 22:27:13 user.go:179: 用户admin登录成功
+task:2020/04/24 22:27:13 user.go:40: User Load Success
+task:2020/04/24 22:27:13 user.go:162: admin为管理员用户
+task:2020/04/24 22:27:13 user.go:40: User Load Success
+task:2020/04/24 22:27:23 user.go:40: User Load Success
+task:2020/04/24 22:27:23 user.go:179: 用户admin登录成功
+task:2020/04/24 22:27:23 user.go:40: User Load Success
+task:2020/04/24 22:27:23 user.go:162: admin为管理员用户
+task:2020/04/24 22:27:23 user.go:40: User Load Success
+task:2020/04/24 22:29:18 user.go:40: User Load Success
+task:2020/04/24 22:29:28 user.go:40: User Load Success
+task:2020/04/24 22:29:28 user.go:179: 用户admin登录成功
+task:2020/04/24 22:29:28 user.go:40: User Load Success
+task:2020/04/24 22:29:28 user.go:40: User Load Success
+task:2020/04/24 22:29:28 user.go:162: admin为管理员用户
+task:2020/04/24 22:29:28 server.go:3012: http: panic serving [::1]:54303: assignment to entry in nil map
+goroutine 20 [running]:
+net/http.(*conn).serve.func1(0xc000040aa0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832340)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e9e0, 0xc0000e62a0, 0xc000152300)
+	d:/Code/goang/practise/todolist/controllers/user.go:36 +0x32c
+net/http.HandlerFunc.ServeHTTP(0x7d9990, 0x83e9e0, 0xc0000e62a0, 0xc000152300)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e9e0, 0xc0000e62a0, 0xc000152300)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc000048a90, 0x83e9e0, 0xc0000e62a0, 0xc000152300)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000040aa0, 0x83efa0, 0xc00004e540)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:29:28 user.go:40: User Load Success
+task:2020/04/24 22:29:28 user.go:179: 用户admin登录成功
+task:2020/04/24 22:29:28 user.go:40: User Load Success
+task:2020/04/24 22:29:28 user.go:40: User Load Success
+task:2020/04/24 22:29:28 user.go:162: admin为管理员用户
+task:2020/04/24 22:29:28 server.go:3012: http: panic serving [::1]:54313: assignment to entry in nil map
+goroutine 10 [running]:
+net/http.(*conn).serve.func1(0xc00013a0a0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832340)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e9e0, 0xc0001402a0, 0xc000152400)
+	d:/Code/goang/practise/todolist/controllers/user.go:36 +0x32c
+net/http.HandlerFunc.ServeHTTP(0x7d9990, 0x83e9e0, 0xc0001402a0, 0xc000152400)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e9e0, 0xc0001402a0, 0xc000152400)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc000048a90, 0x83e9e0, 0xc0001402a0, 0xc000152400)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc00013a0a0, 0x83efa0, 0xc000032340)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:29:28 user.go:40: User Load Success
+task:2020/04/24 22:29:28 user.go:179: 用户admin登录成功
+task:2020/04/24 22:29:28 user.go:40: User Load Success
+task:2020/04/24 22:29:28 user.go:40: User Load Success
+task:2020/04/24 22:29:28 user.go:162: admin为管理员用户
+task:2020/04/24 22:29:28 server.go:3012: http: panic serving [::1]:54314: assignment to entry in nil map
+goroutine 35 [running]:
+net/http.(*conn).serve.func1(0xc0001180a0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832340)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e9e0, 0xc000140380, 0xc000152500)
+	d:/Code/goang/practise/todolist/controllers/user.go:36 +0x32c
+net/http.HandlerFunc.ServeHTTP(0x7d9990, 0x83e9e0, 0xc000140380, 0xc000152500)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e9e0, 0xc000140380, 0xc000152500)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc000048a90, 0x83e9e0, 0xc000140380, 0xc000152500)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc0001180a0, 0x83efa0, 0xc0000324c0)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:30:38 user.go:40: User Load Success
+task:2020/04/24 22:30:38 user.go:179: 用户admin登录成功
+task:2020/04/24 22:30:38 user.go:40: User Load Success
+task:2020/04/24 22:30:38 user.go:40: User Load Success
+task:2020/04/24 22:30:38 user.go:162: admin为管理员用户
+task:2020/04/24 22:30:38 server.go:3012: http: panic serving [::1]:54382: assignment to entry in nil map
+goroutine 20 [running]:
+net/http.(*conn).serve.func1(0xc000040b40)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832360)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83ea00, 0xc0000ee1c0, 0xc0000d0500)
+	d:/Code/goang/practise/todolist/controllers/user.go:36 +0x32c
+net/http.HandlerFunc.ServeHTTP(0x7d9990, 0x83ea00, 0xc0000ee1c0, 0xc0000d0500)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83ea00, 0xc0000ee1c0, 0xc0000d0500)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c750, 0x83ea00, 0xc0000ee1c0, 0xc0000d0500)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000040b40, 0x83efc0, 0xc00004e500)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:30:38 user.go:40: User Load Success
+task:2020/04/24 22:30:38 user.go:179: 用户admin登录成功
+task:2020/04/24 22:30:38 user.go:40: User Load Success
+task:2020/04/24 22:30:38 user.go:40: User Load Success
+task:2020/04/24 22:30:38 user.go:162: admin为管理员用户
+task:2020/04/24 22:30:38 server.go:3012: http: panic serving [::1]:54381: assignment to entry in nil map
+goroutine 19 [running]:
+net/http.(*conn).serve.func1(0xc000040aa0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832360)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83ea00, 0xc0000ee2a0, 0xc0000d0100)
+	d:/Code/goang/practise/todolist/controllers/user.go:36 +0x32c
+net/http.HandlerFunc.ServeHTTP(0x7d9990, 0x83ea00, 0xc0000ee2a0, 0xc0000d0100)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83ea00, 0xc0000ee2a0, 0xc0000d0100)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c750, 0x83ea00, 0xc0000ee2a0, 0xc0000d0100)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000040aa0, 0x83efc0, 0xc00004e440)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:30:38 user.go:40: User Load Success
+task:2020/04/24 22:30:38 user.go:179: 用户admin登录成功
+task:2020/04/24 22:30:38 user.go:40: User Load Success
+task:2020/04/24 22:30:38 user.go:40: User Load Success
+task:2020/04/24 22:30:38 user.go:162: admin为管理员用户
+task:2020/04/24 22:30:38 server.go:3012: http: panic serving [::1]:54390: assignment to entry in nil map
+goroutine 10 [running]:
+net/http.(*conn).serve.func1(0xc0001323c0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832360)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83ea00, 0xc00018e000, 0xc000178000)
+	d:/Code/goang/practise/todolist/controllers/user.go:36 +0x32c
+net/http.HandlerFunc.ServeHTTP(0x7d9990, 0x83ea00, 0xc00018e000, 0xc000178000)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83ea00, 0xc00018e000, 0xc000178000)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c750, 0x83ea00, 0xc00018e000, 0xc000178000)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc0001323c0, 0x83efc0, 0xc00015c080)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:33:36 user.go:40: User Load Success
+task:2020/04/24 22:33:36 user.go:179: 用户admin登录成功
+task:2020/04/24 22:33:36 user.go:40: User Load Success
+task:2020/04/24 22:33:36 server.go:3012: http: panic serving [::1]:54565: assignment to entry in nil map
+goroutine 5 [running]:
+net/http.(*conn).serve.func1(0xc00003eaa0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832300)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e980, 0xc0000f6000, 0xc0000de000)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9980, 0x83e980, 0xc0000f6000, 0xc0000de000)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e980, 0xc0000f6000, 0xc0000de000)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc000046a90, 0x83e980, 0xc0000f6000, 0xc0000de000)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc00003eaa0, 0x83ef40, 0xc0000ce040)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:33:44 user.go:40: User Load Success
+task:2020/04/24 22:33:44 user.go:179: 用户admin登录成功
+task:2020/04/24 22:33:44 user.go:40: User Load Success
+task:2020/04/24 22:33:44 server.go:3012: http: panic serving [::1]:54566: assignment to entry in nil map
+goroutine 6 [running]:
+net/http.(*conn).serve.func1(0xc00003eb40)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832300)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e980, 0xc0000f62a0, 0xc000158400)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9980, 0x83e980, 0xc0000f62a0, 0xc000158400)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e980, 0xc0000f62a0, 0xc000158400)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc000046a90, 0x83e980, 0xc0000f62a0, 0xc000158400)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc00003eb40, 0x83ef40, 0xc000032480)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:33:44 user.go:40: User Load Success
+task:2020/04/24 22:33:44 user.go:179: 用户admin登录成功
+task:2020/04/24 22:33:44 user.go:40: User Load Success
+task:2020/04/24 22:33:44 server.go:3012: http: panic serving [::1]:54569: assignment to entry in nil map
+goroutine 34 [running]:
+net/http.(*conn).serve.func1(0xc000140000)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832300)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e980, 0xc0000f6380, 0xc000158000)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9980, 0x83e980, 0xc0000f6380, 0xc000158000)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e980, 0xc0000f6380, 0xc000158000)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc000046a90, 0x83e980, 0xc0000f6380, 0xc000158000)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000140000, 0x83ef40, 0xc000114080)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:33:44 user.go:40: User Load Success
+task:2020/04/24 22:33:44 user.go:179: 用户admin登录成功
+task:2020/04/24 22:33:44 user.go:40: User Load Success
+task:2020/04/24 22:33:44 server.go:3012: http: panic serving [::1]:54576: assignment to entry in nil map
+goroutine 39 [running]:
+net/http.(*conn).serve.func1(0xc000140140)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832300)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e980, 0xc00016e1c0, 0xc000158500)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9980, 0x83e980, 0xc00016e1c0, 0xc000158500)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e980, 0xc00016e1c0, 0xc000158500)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc000046a90, 0x83e980, 0xc00016e1c0, 0xc000158500)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000140140, 0x83ef40, 0xc000114440)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:35:05 user.go:40: User Load Success
+task:2020/04/24 22:35:05 user.go:179: 用户admin登录成功
+task:2020/04/24 22:35:05 user.go:40: User Load Success
+task:2020/04/24 22:35:05 server.go:3012: http: panic serving [::1]:54641: assignment to entry in nil map
+goroutine 42 [running]:
+net/http.(*conn).serve.func1(0xc0001403c0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832300)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e980, 0xc00016e460, 0xc0000de400)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9980, 0x83e980, 0xc00016e460, 0xc0000de400)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e980, 0xc00016e460, 0xc0000de400)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc000046a90, 0x83e980, 0xc00016e460, 0xc0000de400)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc0001403c0, 0x83ef40, 0xc000114600)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:35:05 user.go:40: User Load Success
+task:2020/04/24 22:35:05 user.go:179: 用户admin登录成功
+task:2020/04/24 22:35:05 user.go:40: User Load Success
+task:2020/04/24 22:35:05 server.go:3012: http: panic serving [::1]:54669: assignment to entry in nil map
+goroutine 47 [running]:
+net/http.(*conn).serve.func1(0xc000140460)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832300)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e980, 0xc0000f6460, 0xc000158c00)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9980, 0x83e980, 0xc0000f6460, 0xc000158c00)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e980, 0xc0000f6460, 0xc000158c00)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc000046a90, 0x83e980, 0xc0000f6460, 0xc000158c00)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000140460, 0x83ef40, 0xc000114980)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:35:05 user.go:40: User Load Success
+task:2020/04/24 22:35:05 user.go:179: 用户admin登录成功
+task:2020/04/24 22:35:05 user.go:40: User Load Success
+task:2020/04/24 22:35:05 server.go:3012: http: panic serving [::1]:54670: assignment to entry in nil map
+goroutine 25 [running]:
+net/http.(*conn).serve.func1(0xc0001085a0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x762820, 0x832300)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/session.(*Session).Set(...)
+	d:/Code/goang/practise/todolist/session/session.go:14
+todolist/controllers.LoginAuth(0x83e980, 0xc00016e540, 0xc0000de500)
+	d:/Code/goang/practise/todolist/controllers/user.go:34 +0x303
+net/http.HandlerFunc.ServeHTTP(0x7d9980, 0x83e980, 0xc00016e540, 0xc0000de500)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xaa1aa0, 0x83e980, 0xc00016e540, 0xc0000de500)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc000046a90, 0x83e980, 0xc00016e540, 0xc0000de500)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc0001085a0, 0x83ef40, 0xc0000ce640)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/24 22:37:50 user.go:40: User Load Success
+task:2020/04/24 22:37:50 user.go:179: 用户admin登录成功
+task:2020/04/24 22:37:50 user.go:40: User Load Success
+task:2020/04/24 22:37:50 user.go:40: User Load Success
+task:2020/04/24 22:37:50 user.go:162: admin为管理员用户
+task:2020/04/24 22:37:50 user.go:40: User Load Success
+task:2020/04/24 22:38:00 user.go:40: User Load Success
+task:2020/04/24 22:38:00 user.go:179: 用户admin登录成功
+task:2020/04/24 22:38:00 user.go:40: User Load Success
+task:2020/04/24 22:38:00 user.go:40: User Load Success
+task:2020/04/24 22:38:00 user.go:162: admin为管理员用户
+task:2020/04/24 22:38:00 user.go:40: User Load Success
+task:2020/04/24 22:42:51 user.go:40: User Load Success
+task:2020/04/24 22:42:51 user.go:179: 用户admin登录成功
+task:2020/04/24 22:42:51 user.go:40: User Load Success
+task:2020/04/24 22:42:51 user.go:40: User Load Success
+task:2020/04/24 22:42:51 user.go:162: admin为管理员用户
+task:2020/04/24 22:42:51 user.go:40: User Load Success
+task:2020/04/24 22:53:02 user.go:40: User Load Success
+task:2020/04/24 22:53:03 user.go:179: 用户admin登录成功
+task:2020/04/24 22:53:03 user.go:40: User Load Success
+task:2020/04/24 22:53:03 user.go:40: User Load Success
+task:2020/04/24 22:53:03 user.go:162: admin为管理员用户
+task:2020/04/24 22:53:03 user.go:40: User Load Success
+task:2020/04/24 23:03:31 user.go:40: User Load Success
+task:2020/04/24 23:03:31 user.go:182: 用户admin验证失败
+task:2020/04/24 23:03:31 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:49)
+task:2020/04/24 23:03:51 user.go:40: User Load Success
+task:2020/04/24 23:03:51 user.go:182: 用户admin验证失败
+task:2020/04/24 23:03:51 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:49)
+task:2020/04/24 23:04:05 user.go:40: User Load Success
+task:2020/04/24 23:04:05 user.go:179: 用户admin登录成功
+task:2020/04/24 23:04:05 user.go:40: User Load Success
+task:2020/04/24 23:04:05 user.go:40: User Load Success
+task:2020/04/24 23:04:05 user.go:162: admin为管理员用户
+task:2020/04/24 23:04:05 user.go:40: User Load Success
+task:2020/04/24 23:06:45 user.go:40: User Load Success
+task:2020/04/24 23:06:45 user.go:179: 用户admin登录成功
+task:2020/04/24 23:06:45 user.go:40: User Load Success
+task:2020/04/24 23:06:45 user.go:40: User Load Success
+task:2020/04/24 23:06:45 user.go:162: admin为管理员用户
+task:2020/04/24 23:06:45 user.go:40: User Load Success
+task:2020/04/24 23:10:53 user.go:40: User Load Success
+task:2020/04/24 23:10:53 user.go:179: 用户admin登录成功
+task:2020/04/24 23:10:53 user.go:40: User Load Success
+task:2020/04/24 23:10:53 user.go:40: User Load Success
+task:2020/04/24 23:10:53 user.go:162: admin为管理员用户
+task:2020/04/24 23:10:53 user.go:40: User Load Success
+task:2020/04/24 23:11:02 task.go:50: Task load Success
+task:2020/04/24 23:11:02 task.go:75: Task Read Success
+task:2020/04/24 23:23:07 user.go:40: User Load Success
+task:2020/04/24 23:23:07 user.go:179: 用户admin登录成功
+task:2020/04/24 23:23:07 user.go:40: User Load Success
+task:2020/04/24 23:23:07 user.go:40: User Load Success
+task:2020/04/24 23:23:07 user.go:162: admin为管理员用户
+task:2020/04/24 23:23:07 user.go:40: User Load Success
+task:2020/04/24 23:26:18 user.go:40: User Load Success
+task:2020/04/24 23:26:18 user.go:179: 用户admin登录成功
+task:2020/04/24 23:26:18 user.go:40: User Load Success
+task:2020/04/24 23:26:18 user.go:40: User Load Success
+task:2020/04/24 23:26:18 user.go:162: admin为管理员用户
+task:2020/04/24 23:26:18 user.go:40: User Load Success
+task:2020/04/24 23:32:04 user.go:40: User Load Success
+task:2020/04/24 23:32:04 user.go:187: 用户不存在，请先注册账号
+task:2020/04/24 23:32:04 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:49)
+task:2020/04/24 23:32:46 user.go:40: User Load Success
+task:2020/04/24 23:32:46 user.go:187: 用户dan不存在，请先注册账号
+task:2020/04/24 23:32:46 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:49)
+task:2020/04/24 23:34:23 user.go:40: User Load Success
+task:2020/04/24 23:34:23 user.go:182: 用户admin验证失败
+task:2020/04/24 23:34:23 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:49)
+task:2020/04/24 23:35:29 user.go:40: User Load Success
+task:2020/04/24 23:35:29 user.go:182: 用户admin验证失败
+task:2020/04/24 23:35:29 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:49)
+task:2020/04/24 23:46:16 user.go:40: User Load Success
+task:2020/04/24 23:46:16 user.go:182: 用户admin验证失败
+task:2020/04/24 23:46:16 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:49)
+task:2020/04/24 23:55:57 user.go:40: User Load Success
+task:2020/04/24 23:55:57 user.go:182: 用户admin验证失败
+task:2020/04/24 23:55:57 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:49)
+task:2020/04/24 23:56:00 user.go:40: User Load Success
+task:2020/04/24 23:56:00 user.go:182: 用户admin验证失败
+task:2020/04/24 23:56:00 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:49)
+task:2020/04/24 23:56:28 user.go:40: User Load Success
+task:2020/04/24 23:56:28 user.go:182: 用户admin验证失败
+task:2020/04/24 23:56:28 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:49)
+task:2020/04/24 23:56:30 user.go:40: User Load Success
+task:2020/04/24 23:56:30 user.go:179: 用户admin登录成功
+task:2020/04/24 23:56:30 user.go:40: User Load Success
+task:2020/04/24 23:56:30 user.go:40: User Load Success
+task:2020/04/24 23:56:30 user.go:162: admin为管理员用户
+task:2020/04/24 23:56:31 user.go:40: User Load Success
+task:2020/04/24 23:57:22 user.go:40: User Load Success
+task:2020/04/24 23:57:22 user.go:182: 用户admin验证失败
+task:2020/04/24 23:57:22 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:49)
+task:2020/04/24 23:57:25 user.go:40: User Load Success
+task:2020/04/24 23:57:25 user.go:179: 用户admin登录成功
+task:2020/04/24 23:57:25 user.go:40: User Load Success
+task:2020/04/24 23:57:25 user.go:40: User Load Success
+task:2020/04/24 23:57:25 user.go:162: admin为管理员用户
+task:2020/04/24 23:57:25 user.go:40: User Load Success
+task:2020/04/25 00:02:09 user.go:40: User Load Success
+task:2020/04/25 00:02:09 user.go:182: 用户wei验证失败
+task:2020/04/25 00:02:09 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:53)
+task:2020/04/27 20:24:39 user.go:43: User Load Success
+task:2020/04/27 20:24:39 user.go:202: 用户wei验证失败
+task:2020/04/27 20:24:39 server.go:3012: http: superfluous response.WriteHeader call from todolist/controllers.LoginAuth (user.go:53)
+task:2020/04/27 20:24:47 user.go:43: User Load Success
+task:2020/04/27 20:24:47 user.go:199: 用户admin登录成功
+task:2020/04/27 20:24:47 user.go:43: User Load Success
+task:2020/04/27 20:24:47 user.go:182: admin为管理员用户
+task:2020/04/27 20:24:47 user.go:43: User Load Success
+task:2020/04/27 20:25:43 user.go:43: User Load Success
+task:2020/04/27 20:25:43 user.go:199: 用户admin登录成功
+task:2020/04/27 20:25:43 user.go:43: User Load Success
+task:2020/04/27 20:25:43 user.go:182: admin为管理员用户
+task:2020/04/27 20:25:43 user.go:43: User Load Success
+task:2020/04/27 20:26:29 user.go:43: User Load Success
+task:2020/04/27 20:26:29 user.go:199: 用户admin登录成功
+task:2020/04/27 20:26:29 user.go:43: User Load Success
+task:2020/04/27 20:26:29 user.go:182: admin为管理员用户
+task:2020/04/27 20:26:29 user.go:43: User Load Success
+task:2020/04/27 20:45:18 user.go:41: User Load Success
+task:2020/04/27 20:45:18 user.go:197: 用户admin登录成功
+task:2020/04/27 20:45:18 user.go:41: User Load Success
+task:2020/04/27 20:45:18 user.go:180: admin为管理员用户
+task:2020/04/27 20:45:18 user.go:41: User Load Success
+task:2020/04/27 20:45:20 server.go:3012: http: panic serving 127.0.0.1:53273: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc,status,create_time,complate_time from task' at line 1
+goroutine 20 [running]:
+net/http.(*conn).serve.func1(0xc000040aa0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x7a0020, 0xc000190060)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/models.GetTasks(0x0, 0x0, 0x0)
+	d:/Code/goang/practise/todolist/models/task.go:90 +0x4d3
+todolist/controllers.TaskAction(0x893b20, 0xc0000ec2a0, 0xc00011e800)
+	d:/Code/goang/practise/todolist/controllers/task.go:20 +0xd9
+net/http.HandlerFunc.ServeHTTP(0x827d00, 0x893b20, 0xc0000ec2a0, 0xc00011e800)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xb1ee20, 0x893b20, 0xc0000ec2a0, 0xc00011e800)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c8f0, 0x893b20, 0xc0000ec2a0, 0xc00011e800)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000040aa0, 0x894220, 0xc00004e440)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/27 20:45:20 server.go:3012: http: panic serving 127.0.0.1:53268: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc,status,create_time,complate_time from task' at line 1
+goroutine 34 [running]:
+net/http.(*conn).serve.func1(0xc000146000)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x7a0020, 0xc0001900c0)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/models.GetTasks(0x0, 0x0, 0x0)
+	d:/Code/goang/practise/todolist/models/task.go:90 +0x4d3
+todolist/controllers.TaskAction(0x893b20, 0xc000110380, 0xc00011e300)
+	d:/Code/goang/practise/todolist/controllers/task.go:20 +0xd9
+net/http.HandlerFunc.ServeHTTP(0x827d00, 0x893b20, 0xc000110380, 0xc00011e300)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xb1ee20, 0x893b20, 0xc000110380, 0xc00011e300)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c8f0, 0x893b20, 0xc000110380, 0xc00011e300)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000146000, 0x894220, 0xc000032380)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/27 20:45:20 server.go:3012: http: panic serving 127.0.0.1:53269: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc,status,create_time,complate_time from task' at line 1
+goroutine 35 [running]:
+net/http.(*conn).serve.func1(0xc0001460a0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x7a0020, 0xc000004360)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/models.GetTasks(0x0, 0x0, 0x0)
+	d:/Code/goang/practise/todolist/models/task.go:90 +0x4d3
+todolist/controllers.TaskAction(0x893b20, 0xc0000ec380, 0xc00011e400)
+	d:/Code/goang/practise/todolist/controllers/task.go:20 +0xd9
+net/http.HandlerFunc.ServeHTTP(0x827d00, 0x893b20, 0xc0000ec380, 0xc00011e400)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xb1ee20, 0x893b20, 0xc0000ec380, 0xc00011e400)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c8f0, 0x893b20, 0xc0000ec380, 0xc00011e400)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc0001460a0, 0x894220, 0xc000032440)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/27 20:45:20 server.go:3012: http: panic serving [::1]:53289: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc,status,create_time,complate_time from task' at line 1
+goroutine 52 [running]:
+net/http.(*conn).serve.func1(0xc0001c6140)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x7a0020, 0xc0001901c0)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/models.GetTasks(0x0, 0x0, 0x0)
+	d:/Code/goang/practise/todolist/models/task.go:90 +0x4d3
+todolist/controllers.TaskAction(0x893b20, 0xc0001aa0e0, 0xc00011e900)
+	d:/Code/goang/practise/todolist/controllers/task.go:20 +0xd9
+net/http.HandlerFunc.ServeHTTP(0x827d00, 0x893b20, 0xc0001aa0e0, 0xc00011e900)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xb1ee20, 0x893b20, 0xc0001aa0e0, 0xc00011e900)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c8f0, 0x893b20, 0xc0001aa0e0, 0xc00011e900)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc0001c6140, 0x894220, 0xc000032800)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/27 20:45:21 server.go:3012: http: panic serving [::1]:53291: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc,status,create_time,complate_time from task' at line 1
+goroutine 36 [running]:
+net/http.(*conn).serve.func1(0xc000146140)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x7a0020, 0xc0001902e0)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/models.GetTasks(0x0, 0x0, 0x0)
+	d:/Code/goang/practise/todolist/models/task.go:90 +0x4d3
+todolist/controllers.TaskAction(0x893b20, 0xc0001aa1c0, 0xc000136100)
+	d:/Code/goang/practise/todolist/controllers/task.go:20 +0xd9
+net/http.HandlerFunc.ServeHTTP(0x827d00, 0x893b20, 0xc0001aa1c0, 0xc000136100)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xb1ee20, 0x893b20, 0xc0001aa1c0, 0xc000136100)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c8f0, 0x893b20, 0xc0001aa1c0, 0xc000136100)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000146140, 0x894220, 0xc0000fa040)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/27 20:45:21 server.go:3012: http: panic serving [::1]:53292: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc,status,create_time,complate_time from task' at line 1
+goroutine 37 [running]:
+net/http.(*conn).serve.func1(0xc0001461e0)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x7a0020, 0xc000190340)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/models.GetTasks(0x0, 0x0, 0x0)
+	d:/Code/goang/practise/todolist/models/task.go:90 +0x4d3
+todolist/controllers.TaskAction(0x893b20, 0xc000110460, 0xc000136200)
+	d:/Code/goang/practise/todolist/controllers/task.go:20 +0xd9
+net/http.HandlerFunc.ServeHTTP(0x827d00, 0x893b20, 0xc000110460, 0xc000136200)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xb1ee20, 0x893b20, 0xc000110460, 0xc000136200)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c8f0, 0x893b20, 0xc000110460, 0xc000136200)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc0001461e0, 0x894220, 0xc0000fa100)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/27 20:45:21 server.go:3012: http: panic serving [::1]:53295: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc,status,create_time,complate_time from task' at line 1
+goroutine 87 [running]:
+net/http.(*conn).serve.func1(0xc000108460)
+	D:/Tools/Go/src/net/http/server.go:1769 +0x140
+panic(0x7a0020, 0xc0001903a0)
+	D:/Tools/Go/src/runtime/panic.go:522 +0x1c3
+todolist/models.GetTasks(0x0, 0x0, 0x0)
+	d:/Code/goang/practise/todolist/models/task.go:90 +0x4d3
+todolist/controllers.TaskAction(0x893b20, 0xc000110540, 0xc00011ea00)
+	d:/Code/goang/practise/todolist/controllers/task.go:20 +0xd9
+net/http.HandlerFunc.ServeHTTP(0x827d00, 0x893b20, 0xc000110540, 0xc00011ea00)
+	D:/Tools/Go/src/net/http/server.go:1995 +0x4b
+net/http.(*ServeMux).ServeHTTP(0xb1ee20, 0x893b20, 0xc000110540, 0xc00011ea00)
+	D:/Tools/Go/src/net/http/server.go:2375 +0x1dd
+net/http.serverHandler.ServeHTTP(0xc00004c8f0, 0x893b20, 0xc000110540, 0xc00011ea00)
+	D:/Tools/Go/src/net/http/server.go:2774 +0xaf
+net/http.(*conn).serve(0xc000108460, 0x894220, 0xc000032940)
+	D:/Tools/Go/src/net/http/server.go:1878 +0x858
+created by net/http.(*Server).Serve
+	D:/Tools/Go/src/net/http/server.go:2884 +0x2fb
+task:2020/04/27 20:46:08 user.go:41: User Load Success
+task:2020/04/27 20:46:08 user.go:197: 用户admin登录成功
+task:2020/04/27 20:46:08 user.go:41: User Load Success
+task:2020/04/27 20:46:08 user.go:180: admin为管理员用户
+task:2020/04/27 20:46:08 user.go:41: User Load Success
+task:2020/04/27 20:48:04 user.go:41: User Load Success
+task:2020/04/27 20:48:04 user.go:197: 用户admin登录成功
+task:2020/04/27 20:48:04 user.go:41: User Load Success
+task:2020/04/27 20:48:04 user.go:180: admin为管理员用户
+task:2020/04/27 20:48:04 user.go:41: User Load Success
+task:2020/04/27 20:50:58 user.go:41: User Load Success
+task:2020/04/27 20:50:58 user.go:197: 用户admin登录成功
+task:2020/04/27 20:50:58 user.go:41: User Load Success
+task:2020/04/27 20:50:58 user.go:180: admin为管理员用户
+task:2020/04/27 20:50:58 user.go:41: User Load Success
+task:2020/04/27 20:51:48 user.go:41: User Load Success
+task:2020/04/27 20:51:48 user.go:197: 用户admin登录成功
+task:2020/04/27 20:51:48 user.go:41: User Load Success
+task:2020/04/27 20:51:48 user.go:180: admin为管理员用户
+task:2020/04/27 20:51:48 user.go:41: User Load Success
+task:2020/04/27 20:55:14 user.go:41: User Load Success
+task:2020/04/27 20:55:14 user.go:197: 用户admin登录成功
+task:2020/04/27 20:55:14 user.go:41: User Load Success
+task:2020/04/27 20:55:14 user.go:180: admin为管理员用户
+task:2020/04/27 20:55:14 user.go:41: User Load Success
+task:2020/04/27 21:13:10 user.go:41: User Load Success
+task:2020/04/27 21:13:10 user.go:197: 用户admin登录成功
+task:2020/04/27 21:13:10 user.go:41: User Load Success
+task:2020/04/27 21:13:10 user.go:180: admin为管理员用户
+task:2020/04/27 21:13:10 user.go:41: User Load Success
+task:2020/04/27 21:16:07 user.go:41: User Load Success
+task:2020/04/27 21:16:07 user.go:197: 用户admin登录成功
+task:2020/04/27 21:16:07 user.go:41: User Load Success
+task:2020/04/27 21:16:07 user.go:180: admin为管理员用户
+task:2020/04/27 21:16:07 user.go:41: User Load Success
+task:2020/04/27 21:18:12 user.go:41: User Load Success
+task:2020/04/27 21:18:12 user.go:197: 用户admin登录成功
+task:2020/04/27 21:18:12 user.go:41: User Load Success
+task:2020/04/27 21:18:12 user.go:180: admin为管理员用户
+task:2020/04/27 21:18:12 user.go:41: User Load Success
+task:2020/04/27 21:20:09 user.go:41: User Load Success
+task:2020/04/27 21:20:09 user.go:197: 用户admin登录成功
+task:2020/04/27 21:20:09 user.go:41: User Load Success
+task:2020/04/27 21:20:09 user.go:180: admin为管理员用户
+task:2020/04/27 21:20:09 user.go:41: User Load Success
+task:2020/04/27 21:20:41 user.go:41: User Load Success
+task:2020/04/27 21:20:41 user.go:197: 用户admin登录成功
+task:2020/04/27 21:20:41 user.go:41: User Load Success
+task:2020/04/27 21:20:41 user.go:180: admin为管理员用户
+task:2020/04/27 21:20:41 user.go:41: User Load Success
+task:2020/04/27 21:23:21 user.go:41: User Load Success
+task:2020/04/27 21:23:21 user.go:197: 用户admin登录成功
+task:2020/04/27 21:23:21 user.go:41: User Load Success
+task:2020/04/27 21:23:21 user.go:180: admin为管理员用户
+task:2020/04/27 21:23:21 user.go:41: User Load Success
+task:2020/04/27 21:38:40 user.go:41: User Load Success
+task:2020/04/27 21:38:40 user.go:197: 用户admin登录成功
+task:2020/04/27 21:38:40 user.go:41: User Load Success
+task:2020/04/27 21:38:40 user.go:180: admin为管理员用户
+task:2020/04/27 21:38:40 user.go:41: User Load Success
+task:2020/04/27 21:40:59 user.go:41: User Load Success
+task:2020/04/27 21:41:00 user.go:197: 用户admin登录成功
+task:2020/04/27 21:41:00 user.go:41: User Load Success
+task:2020/04/27 21:41:00 user.go:180: admin为管理员用户
+task:2020/04/27 21:41:00 user.go:41: User Load Success
+task:2020/04/27 21:41:12 user.go:41: User Load Success
+task:2020/04/27 21:41:12 user.go:197: 用户admin登录成功
+task:2020/04/27 21:41:12 user.go:41: User Load Success
+task:2020/04/27 21:41:12 user.go:180: admin为管理员用户
+task:2020/04/27 21:41:12 user.go:41: User Load Success
+task:2020/04/27 21:49:00 task.go:108: Modify Task Post Requrst success
+task:2020/04/27 21:49:14 user.go:41: User Load Success
+task:2020/04/27 21:49:14 user.go:197: 用户admin登录成功
+task:2020/04/27 21:49:14 user.go:41: User Load Success
+task:2020/04/27 21:49:14 user.go:180: admin为管理员用户
+task:2020/04/27 21:49:14 user.go:41: User Load Success
+task:2020/04/27 21:49:24 task.go:108: Modify Task Post Requrst success
+task:2020/04/27 21:49:29 user.go:41: User Load Success
+task:2020/04/27 21:49:29 user.go:197: 用户admin登录成功
+task:2020/04/27 21:49:29 user.go:41: User Load Success
+task:2020/04/27 21:49:29 user.go:180: admin为管理员用户
+task:2020/04/27 21:49:29 user.go:41: User Load Success
+task:2020/04/27 21:50:16 user.go:41: User Load Success
+task:2020/04/27 21:50:16 user.go:197: 用户admin登录成功
+task:2020/04/27 21:50:16 user.go:41: User Load Success
+task:2020/04/27 21:50:16 user.go:180: admin为管理员用户
+task:2020/04/27 21:50:16 user.go:41: User Load Success
+task:2020/04/27 21:50:26 task.go:108: Modify Task Post Requrst success
+task:2020/04/27 21:52:36 user.go:41: User Load Success
+task:2020/04/27 21:52:36 user.go:197: 用户admin登录成功
+task:2020/04/27 21:52:36 user.go:41: User Load Success
+task:2020/04/27 21:52:36 user.go:180: admin为管理员用户
+task:2020/04/27 21:52:36 user.go:41: User Load Success
+task:2020/04/27 21:52:45 task.go:120: 发起Delete Task Request
+task:2020/04/27 21:53:20 user.go:41: User Load Success
+task:2020/04/27 21:53:20 user.go:197: 用户admin登录成功
+task:2020/04/27 21:53:20 user.go:41: User Load Success
+task:2020/04/27 21:53:20 user.go:180: admin为管理员用户
+task:2020/04/27 21:53:20 user.go:41: User Load Success

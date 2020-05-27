@@ -1,0 +1,35 @@
+2020/01/18 17:05:59.282 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2020/01/18 17:06:19.636 [D] [server.go:2774]  |            ::1|[47m 302 [0m|   307.1812ms|   match|[44m GET     [0m /     r:/
+2020/01/18 17:06:19.657 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    10.9685ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2020/01/18 17:06:19.706 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     2.9922ms|   match|[44m GET     [0m /static/css/main.css
+2020/01/18 17:06:19.747 [D] [server.go:2774]  |            ::1|[47m 304 [0m|      7.998ms|   match|[44m GET     [0m /static/plugins/Font-Awesome-4.7.0/css/font-awesome.min.css
+2020/01/18 17:06:20.103 [D] [server.go:2774]  |            ::1|[47m 304 [0m|      996.9µs|   match|[44m GET     [0m /static/plugins/Font-Awesome-4.7.0/fonts/fontawesome-webfont.woff2
+2020/01/18 17:06:20.157 [D] [server.go:2774]  |            ::1|[43m 404 [0m|    35.9046ms| nomatch|[44m GET     [0m /favicon.ico
+2020/01/18 17:06:39.907 [D] [server.go:2774]  |            ::1|[47m 302 [0m|    43.8839ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2020/01/18 17:06:39.957 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    46.8648ms|   match|[44m GET     [0m /userpage/index   r:/userpage/index/*
+2020/01/18 17:06:40.020 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     3.9897ms|   match|[44m GET     [0m /static/plugins/sweetalert-1.1.3/dist/sweetalert.css
+2020/01/18 17:06:40.020 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     5.9842ms|   match|[44m GET     [0m /static/plugins/daterangepicker-3.0.5/daterangepicker.css
+2020/01/18 17:06:40.033 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     2.9932ms|   match|[44m GET     [0m /static/js/plugins/jquery.dataTables.min.js
+2020/01/18 17:06:40.053 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     20.944ms|   match|[44m GET     [0m /static/js/plugins/pace.min.js
+2020/01/18 17:06:40.053 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    13.9615ms|   match|[44m GET     [0m /static/js/plugins/dataTables.bootstrap.min.js
+2020/01/18 17:06:40.056 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    32.9117ms|   match|[44m GET     [0m /static/js/jquery-3.3.1.min.js
+2020/01/18 17:06:40.057 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    33.9092ms|   match|[44m GET     [0m /static/js/bootstrap.min.js
+2020/01/18 17:06:40.057 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /static/js/jquery.cookie-1.4.1.min.js
+2020/01/18 17:06:40.058 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    32.9121ms|   match|[44m GET     [0m /static/js/popper.min.js
+2020/01/18 17:06:40.058 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     3.9903ms|   match|[44m GET     [0m /static/js/jquery.base64.js
+2020/01/18 17:06:40.066 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    42.8972ms|   match|[44m GET     [0m /static/js/main.js
+2020/01/18 17:06:40.067 [D] [server.go:2774]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/filesize.js
+2020/01/18 17:06:40.068 [D] [server.go:2774]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/utils.js
+2020/01/18 17:06:40.079 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     6.9802ms|   match|[44m GET     [0m /static/plugins/jquery.formatDateTime-1.1.4/dist/jquery.formatDateTime.min.js
+2020/01/18 17:06:40.081 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      996.9µs|   match|[44m GET     [0m /static/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-CN.min.js
+2020/01/18 17:06:40.095 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     3.9933ms|   match|[44m GET     [0m /static/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.min.js
+2020/01/18 17:06:40.098 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.9943ms|   match|[44m GET     [0m /static/plugins/daterangepicker-3.0.5/daterangepicker.js
+2020/01/18 17:06:40.099 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    10.9704ms|   match|[44m GET     [0m /static/plugins/incubator-echarts-4.6.0-rc.1/dist/echarts.min.js
+2020/01/18 17:06:40.099 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      997.2µs|   match|[44m GET     [0m /static/plugins/daterangepicker-3.0.5/moment.min.js
+2020/01/18 17:06:40.100 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.9942ms|   match|[44m GET     [0m /static/js/plugins/select2.min.js
+2020/01/18 17:06:40.101 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.9946ms|   match|[44m GET     [0m /static/plugins/sweetalert-1.1.3/dist/sweetalert.min.js
+2020/01/18 17:06:40.422 [D] [server.go:2774]  |            ::1|[42m 200 [0m|        999µs|   match|[44m GET     [0m /static/json/datatable.i18n.zh_CN.json
+2020/01/18 17:06:40.467 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     2.9924ms|   match|[44m GET     [0m /user/list   r:/user/list/*
+2020/01/18 17:06:43.561 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    63.8518ms|   match|[44m GET     [0m /cloudplatformpage/index   r:/cloudplatformpage/index/*
+2020/01/18 17:06:43.752 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    15.9577ms|   match|[44m GET     [0m /cloudplatform/list   r:/cloudplatform/list/*
+2020/01/18 17:12:46.133 [I] [asm_amd64.s:1337]  http server Running on http://:8080

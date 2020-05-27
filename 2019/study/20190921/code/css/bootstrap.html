@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title> bootstrap</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+    <body>
+        <div class="container">
+            container
+        </div>
+        <div class="container-fluid">
+            container-fluid
+            <div class="row">
+                <div class="col">
+                    <form>
+                        <div class="form-group">
+                            <label>姓名:</label>
+                            <input type="text" name="username" class="form-control" />
+                            <small id="usernameHelp" class="form-text text-muted">Username.</small>
+                        </div>
+                        <div class="form-group">
+                            <label>密码:</label>
+                            <input type="password" name="password" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" class="btn btn-primary btn-block" value="登录"/>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="col">
+                        <form>
+                            <div class="form-group row">
+                                <label class="col-2 col-form-label sr-only">姓名:</label>
+                                <div class="col-10">
+                                    <input type="text" name="username" class="form-control" />
+                                </div>
+                            
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-2 col-form-label">密码:</label>
+                                <div class="col-10">
+                                    <input type="password" name="password" class="form-control" />
+                                </div>
+                                
+                            </div>
+                            <div class="form-group row">
+                                <input type="submit" class="btn btn-primary btn-block" value="登录"/>
+                            </div>
+                        </form>
+                    </div>
+            </div>
+
+            
+            
+            <div class="row">
+                <div class="col-2">col-2</div>
+                <div class="col-3">col-3</div>
+                <div class="col-6">col-6</div>
+            </div>
+            <div class="row">
+                <div class="col-2 offset-3">col-2</div>
+            </div>
+            <div class="row">
+                <div class="col">col-1</div>
+                <div class="col">col-2</div>
+                <div class="col">col-3</div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <table class="table table-striped table-bordered table-hover table-sm">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>ID</th>
+                                <th>姓名</th>
+                                <th>联系方式</th>
+                                <th>联系地址</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Jevon</td>
+                                <td>1234</td>
+                                <td>Shahai</td>
+                            </tr>
+                            <tr class="table-danger">
+                                <td>2</td>
+                                <td>Dan</td>
+                                <td>9876</td>
+                                <td>Shahai</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

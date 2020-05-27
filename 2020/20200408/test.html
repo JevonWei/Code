@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>
+            JevonWei
+        </title>
+    </head>
+    <body>
+        JevonWei Hello
+        <a href="www.baidu.com" target="_blank">百度</a>
+        <img src="http://www.technosamrat.com/wp-content/uploads/2012/02/Ocean-Wallpapers-Images1.jpg">
+        <table>
+            <thead>
+                <tr>
+                    <th>姓名</th>
+                    <th>年龄</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>JevonWei</td>
+                    <td>1212</td>
+                </tr>
+                <tr>
+                    <td>Jevon</td>
+                    <td>12121212</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!--
+            这是注释
+        -->
+        <h1>Hello</h1>
+        <h2>Hello</h2>
+        <h3>Hello</h3>
+        <h4>Hello</h4>
+        <h5>Hello</h5>
+        <h6>Hello</h6>
+
+        <ol>
+           <li>JJ</li> 
+           <li>J11J</li> 
+           <li>22</li> 
+        </ol>
+
+        <ul>
+            <li>JJ</li> 
+            <li>J11J</li> 
+            <li>22</li> 
+        </ul>
+
+        <dl>
+            <dt>教师</dt>
+            <dd>Jevon</dd>
+
+            <dt>学生</dt>
+            <dd>qqq</dd>
+            <dd>aaa</dd>
+            <dd>111</dd>
+        </dl>
+
+        <span>dan</span>
+        <span>dan1</span>
+        <div>
+            RAN
+        </div>
+        <div>
+            RAN1
+        </div>
+        <p>
+            P1
+        </p>
+        <p>
+            P2
+        </p>
+
+        <form action="/login" method="GET" >
+            <input type="hidden" name="id" value="11111"/>
+            <label>生日</label>
+            <input type="date" name="birthday"/>
+        </br>
+            <label>URL</label>
+            <input type="url" name="url"/>
+        </br>
+            <label>EMAIL</label>
+            <input type="email" name="email"/>
+            <div>
+                <label for="username">用户名</label>
+                <input id="username" name="username" type="text" value="Jevon"/>
+            </div>
+
+            <div>
+                <label for="password">密码</label>
+                <input id="password" name="password" type="password"/>
+            </div>
+        </br>
+            <div>
+                <label>性别</label>
+                <input id="sex_0" name="sex" type="radio" value="1" checked="checked"/><label for="sex_0">男</label>
+                <input id="sex_1" name="sex" type="radio" value="0"/><label for="sex_1">女</label>
+            </div>
+
+            <div>
+                <label>学历</label>
+                <input name="education" type="radio" value="1"/><label>高中</label>
+                <input name="education" type="radio" value="2"/><label>本科</label>
+                <input name="education" type="radio" value="3" checked="checked"/><label>研究生</label>
+            </div>
+
+            <div>
+                <label>爱好</label>
+                <input id="footbat" name="hobby" type="checkbox" value="footbat"/> <label for="footbat">足球</label>
+                <input id="basketball" name="hobby" type="checkbox" value="basketball" checked="checked" /> <label for="basketball">篮球</label>
+                <input id="pingpong" name="hobby" type="checkbox" value="pingpong"/> <label for="pingpong">乒乓球</label>
+            </div>
+            <div>
+                <label>省份</label>
+                <select name="area" multiple="multiple" size="3">
+                    <option value="shanghai">上海</option>
+                    <option value="beijing" selected="selected">北京</option>
+                    <option value="shenzhen">深圳</option>
+                    <option value="jiangsu">江苏</option>
+                </select>
+            </div>
+            <div>
+                <label>简介</label>
+                <textarea name="remark" rows="7" cols="50">我是。。。</textarea>
+            </div>
+            <div>
+                <input type="submit" value="登录">
+            </div>
+        </form>
+        <form action="/upload/" method="POST" enctype="multipart/form-data">
+            <input type="file" name="img"/>
+            <input type="submit" value="上传"/>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Todolist</title>
+    </head>
+    <body>
+        <form action="/user/create/" method="POST">
+            <div>
+                <label>用户名</label>
+                <input name="name" type="text"/>
+            </div>
+            <div>
+                <label>密码</label>
+                <input name="password" type="password"/>
+            </div>
+            <div>
+                <label>电话</label>
+                <input name="tel" type="text"/>
+            </div>
+            <div>
+                <label>地址</label>
+                <input name="addr" type="text"/>
+            </div>
+            <div>
+                <label>描述</label>
+                <input name="desc" type="text"/>
+            </div>
+            <div>
+                <label>管理员</label>
+                <input id="super_0" name="super" type="radio" value="0"/><label for="super_0">是</label>
+                <input id="super_1" name="super" type="radio" value="1" checked="checked"/><label for="super_1">否</label>
+            </div>
+            <span>
+                <input name="login" type="submit" value="提交"/>
+            </span>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,92 @@
+2019/11/17 00:23:26.965 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/17 00:23:34.144 [C] [panic.go:522]  the request url is  /auth/login
+2019/11/17 00:23:34.147 [C] [panic.go:522]  Handler crashed with error XSRF cookie does not match POST argument
+2019/11/17 00:23:34.147 [C] [panic.go:522]  D:/Tools/Go/src/runtime/panic.go:522
+2019/11/17 00:23:34.147 [C] [panic.go:522]  C:/Users/jevon/go/pkg/mod/github.com/astaxie/beego@v1.12.0/context/context.go:88
+2019/11/17 00:23:34.148 [C] [panic.go:522]  C:/Users/jevon/go/pkg/mod/github.com/astaxie/beego@v1.12.0/context/context.go:176
+2019/11/17 00:23:34.148 [C] [panic.go:522]  C:/Users/jevon/go/pkg/mod/github.com/astaxie/beego@v1.12.0/controller.go:694
+2019/11/17 00:23:34.149 [C] [panic.go:522]  C:/Users/jevon/go/pkg/mod/github.com/astaxie/beego@v1.12.0/router.go:823
+2019/11/17 00:23:34.151 [C] [panic.go:522]  D:/Tools/Go/src/net/http/server.go:2774
+2019/11/17 00:23:34.152 [C] [panic.go:522]  D:/Tools/Go/src/net/http/server.go:1878
+2019/11/17 00:23:34.153 [C] [panic.go:522]  D:/Tools/Go/src/runtime/asm_amd64.s:1337
+2019/11/17 00:23:34.157 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/11/17 00:23:45.163 [C] [panic.go:522]  the request url is  /auth/login
+2019/11/17 00:23:45.164 [C] [panic.go:522]  Handler crashed with error XSRF cookie does not match POST argument
+2019/11/17 00:23:45.164 [C] [panic.go:522]  D:/Tools/Go/src/runtime/panic.go:522
+2019/11/17 00:23:45.165 [C] [panic.go:522]  C:/Users/jevon/go/pkg/mod/github.com/astaxie/beego@v1.12.0/context/context.go:88
+2019/11/17 00:23:45.165 [C] [panic.go:522]  C:/Users/jevon/go/pkg/mod/github.com/astaxie/beego@v1.12.0/context/context.go:176
+2019/11/17 00:23:45.166 [C] [panic.go:522]  C:/Users/jevon/go/pkg/mod/github.com/astaxie/beego@v1.12.0/controller.go:694
+2019/11/17 00:23:45.166 [C] [panic.go:522]  C:/Users/jevon/go/pkg/mod/github.com/astaxie/beego@v1.12.0/router.go:823
+2019/11/17 00:23:45.166 [C] [panic.go:522]  D:/Tools/Go/src/net/http/server.go:2774
+2019/11/17 00:23:45.167 [C] [panic.go:522]  D:/Tools/Go/src/net/http/server.go:1878
+2019/11/17 00:23:45.167 [C] [panic.go:522]  D:/Tools/Go/src/runtime/asm_amd64.s:1337
+2019/11/17 00:23:45.168 [server.go:3010]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2019/11/17 00:23:49.191 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     3.9903ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/17 00:23:51.240 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      995.7µs|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/17 00:23:51.274 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     4.9903ms|   match|[44m GET     [0m /static/css/main.css
+2019/11/17 00:23:51.403 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.9989ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/17 00:23:53.764 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    11.9687ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:24:01.568 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     2.9921ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:24:18.858 [I] [web.go:70]  初始化admin成功,默认密码: Eow1zu 
+2019/11/17 00:24:29.939 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/17 00:24:32.712 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    15.9576ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:24:44.110 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     3.9869ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:24:53.312 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.9951ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:26:46.168 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/17 00:26:51.642 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     8.9765ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:26:54.300 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     7.9794ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:27:01.378 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    11.9657ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:28:55.912 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/17 00:28:59.890 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    10.9714ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:29:02.612 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     13.963ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:35:52.858 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/17 00:36:18.866 [I] [web.go:73]  初始化admin成功,默认密码: ju5CyG 
+2019/11/17 00:36:27.447 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/17 00:36:29.978 [D] [server.go:2774]  |            ::1|[47m 302 [0m|     6.9815ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:36:29.997 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/17 00:36:35.746 [D] [server.go:2774]  |            ::1|[47m 302 [0m|      997.8µs|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:36:35.755 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      995.9µs|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/17 00:39:06.227 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/17 00:39:23.509 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.9946ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/17 00:39:30.853 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     4.9877ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/17 00:39:33.915 [D] [server.go:2774]  |            ::1|[47m 302 [0m|     4.9865ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:39:33.930 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      996.2µs|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/17 00:39:39.411 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      1.996ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/17 00:39:42.963 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     5.9846ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:39:50.720 [D] [server.go:2774]  |            ::1|[47m 302 [0m|     4.0215ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/17 00:39:50.728 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      997.7µs|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 21:21:54.318 [I] [web.go:73]  初始化admin成功,默认密码: zuFszs 
+2019/11/18 21:22:36.530 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/18 21:22:45.854 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    56.8473ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/18 21:22:45.994 [D] [server.go:2774]  |            ::1|[47m 304 [0m|     6.9802ms|   match|[44m GET     [0m /static/css/main.css
+2019/11/18 21:22:46.308 [D] [server.go:2774]  |            ::1|[43m 404 [0m|      3.988ms| nomatch|[44m GET     [0m /favicon.ico
+2019/11/18 21:22:50.037 [D] [server.go:2774]  |            ::1|[47m 302 [0m|     9.9757ms|   match|[46m POST    [0m /auth/login   r:/auth/login/*
+2019/11/18 21:22:50.049 [D] [server.go:2774]  |            ::1|[43m 404 [0m|     7.9791ms| nomatch|[44m GET     [0m /auth/
+2019/11/18 21:23:08.036 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.9947ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:04:27.768 [I] [web.go:83]  同步数据库 
+2019/11/18 22:06:29.746 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/18 22:06:33.890 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     2.9902ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:08:51.695 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    14.9293ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:10:07.473 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     6.9847ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:11:39.256 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/18 22:11:50.056 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     3.9897ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:12:14.348 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     2.9926ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:15:40.329 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/18 22:17:07.246 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     5.9846ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:17:50.362 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/18 22:18:22.939 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    12.9628ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:21:00.849 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      5.985ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/18 22:21:11.608 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     5.8615ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:21:58.886 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/18 22:22:35.662 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     5.8471ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:22:53.103 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/18 22:23:59.921 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2019/11/18 22:24:07.411 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     6.9512ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:30:25.136 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     2.8544ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:38:28.151 [D] [server.go:2774]  |            ::1|[42m 200 [0m|    15.9574ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/18 22:38:47.098 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     1.9943ms|   match|[44m GET     [0m /auth/login   r:/auth/login/*
+2019/11/18 22:38:56.824 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     3.0405ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:39:15.699 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     2.8561ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:48:14.184 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     2.9832ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:48:30.269 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     3.9876ms|   match|[44m GET     [0m /test/test   r:/test/test/*
+2019/11/18 22:51:23.288 [I] [asm_amd64.s:1337]  http server Running on http://:8080
