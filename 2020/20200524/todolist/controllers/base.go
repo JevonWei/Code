@@ -6,6 +6,7 @@ import (
 	"todolist/models"
 
 	"github.com/astaxie/beego"
+	"github.com/astaxie/beego/logs"
 )
 
 type BaseController struct {
@@ -38,6 +39,11 @@ type LoginRequiredController struct {
 func (this *LoginRequiredController) Prepare() {
 	this.ValidateSession()
 	if this.User == nil {
-		this.Redirect("/auth/login", http.StatusFound)
+		this.Redirect(beego.URLFor(beego.AppConfig.String("login")), http.StatusFound)
 	}
+}
+
+func init() {
+	// log := logs.NewLogger(1000)
+	logs.SetLogger(logs.AdapterFile, `{"filename":"logs/todolist.log"}`)
 }

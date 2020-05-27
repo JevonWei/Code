@@ -104,6 +104,10 @@ func (this *TaskController) Modify() {
 					form.Task.Progress = 100
 				}
 				orm.NewOrm().Update(form.Task)
+
+				flash := beego.NewFlash()
+				flash.Success("删除任务成功")
+				flash.Store(&this.Controller)
 			}
 		}
 		this.Redirect(beego.URLFor("TaskController.Index"), http.StatusFound)
@@ -115,5 +119,17 @@ func (this *TaskController) Modify() {
 }
 
 func (this *TaskController) Delete() {
+	if id, err := this.GetInt("id"); err == nil {
+		o := orm.NewOrm()
+		task := models.Task{Id: id}
+		if o.Read(&task) == nil && (this.User.IsSupper || task.CreateUser == this.User.Id) {
+			o.Delete(&task)
 
+			flash := beego.NewFlash()
+			flash.Success("删除任务成功")
+			flash.Store(&this.Controller)
+		}
+	}
+
+	this.Redirect(beego.URLFor("TaskController.Index"), http.StatusFound)
 }
