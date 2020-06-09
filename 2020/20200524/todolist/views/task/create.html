@@ -1,6 +1,7 @@
 <div class="row">
     <div class="col-4 offset-4">
         <form action="{{ urlfor `TaskController.Create` }}" method="POST">
+            <input type="hidden" name="_xsrf" value="{{ .xsrf_token }}"/>
             <div class="form-group row">
                 <label class="col-form-label col-3">任务名:</label>
                 <div class="col-9">

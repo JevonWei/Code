@@ -70,6 +70,8 @@ func (this *TaskController) Create() {
 	}
 	this.TplName = "task/create.html"
 	this.Data["form"] = form
+	this.Data["xsrf_token"] = this.XSRFToken()
+
 	this.Data["validation"] = valid
 }
 
@@ -106,13 +108,14 @@ func (this *TaskController) Modify() {
 				orm.NewOrm().Update(form.Task)
 
 				flash := beego.NewFlash()
-				flash.Success("删除任务成功")
+				flash.Success("修改任务成功")
 				flash.Store(&this.Controller)
 			}
 		}
 		this.Redirect(beego.URLFor("TaskController.Index"), http.StatusFound)
 	}
 	this.TplName = "task/modify.html"
+	this.Data["xsrf_token"] = this.XSRFToken()
 	this.Data["form"] = form
 	this.Data["validation"] = valid
 	this.Data["statusTexts"] = models.TaskStatusTexts

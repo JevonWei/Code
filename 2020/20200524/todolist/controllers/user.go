@@ -93,8 +93,8 @@ func (c *UserController) Create() {
 	}
 
 	c.TplName = "user/create.html"
-	c.Data["xsrf_token"] = c.XSRFToken() //生成csrftoken值
 	c.Data["form"] = form
+	c.Data["xsrf_token"] = c.XSRFToken() //生成csrftoken值
 	c.Data["validation"] = valid
 
 }
@@ -146,8 +146,9 @@ func (this *UserController) Modify() {
 	}
 
 	this.TplName = "user/modify.html"
-	this.Data["xsrf_token"] = this.XSRFToken() // 生成csrftoken
 	this.Data["form"] = form
+	this.Data["xsrf_token"] = this.XSRFToken() // 生成csrftoken
+
 	this.Data["validation"] = valid
 }
 
@@ -185,11 +186,12 @@ func (this *UserController) Password() {
 	}
 
 	this.TplName = "user/password.html"
-	this.Data["xsrf_token"] = this.XSRFToken() // 生成csrftoken
 	this.Data["form"] = form
+	this.Data["xsrf_token"] = this.XSRFToken() // 生成csrftoken
+
 	this.Data["validation"] = valid
 
-	this.Redirect(beego.URLFor("UserController.Index"), http.StatusFound)
+	// this.Redirect(beego.URLFor("UserController.Index"), http.StatusFound)
 }
 
 func (this *UserController) ResetPassword() {

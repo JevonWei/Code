@@ -40,6 +40,9 @@ func (this *LoginRequiredController) Prepare() {
 	this.ValidateSession()
 	if this.User == nil {
 		this.Redirect(beego.URLFor(beego.AppConfig.String("login")), http.StatusFound)
+
+	} else {
+		beego.ReadFromRequest(&this.Controller)
 	}
 }
 
