@@ -3,8 +3,8 @@ package controllers
 import (
 	"strings"
 
-	"github.com/imsilence/gocmdb/server/controllers/auth"
-	"github.com/imsilence/gocmdb/server/models"
+	"github.com/JevonWei/gocmdb/server/controllers/auth"
+	"github.com/JevonWei/gocmdb/server/models"
 )
 
 type LogPageController struct {

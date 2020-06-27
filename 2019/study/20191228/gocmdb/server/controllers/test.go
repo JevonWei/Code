@@ -3,7 +3,7 @@ package controllers
 import (
 	"fmt"
 
-	"github.com/imsilence/gocmdb/server/controllers/auth"
+	"github.com/JevonWei/gocmdb/server/controllers/auth"
 )
 
 type TestController struct {

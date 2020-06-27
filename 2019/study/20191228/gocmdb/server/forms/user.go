@@ -4,20 +4,20 @@ import (
 	"strings"
 	"time"
 
+	"github.com/JevonWei/gocmdb/server/models"
 	"github.com/astaxie/beego/validation"
-	"github.com/imsilence/gocmdb/server/models"
 )
 
 type UserCreateForm struct {
-	Name           string    `form:"name"`
-	Password       string    `form:"password"`
-	PasswordVerify string    `form:"passwordVerify"`
-	Gender         int       `form:"gender"`
+	Name           string `form:"name"`
+	Password       string `form:"password"`
+	PasswordVerify string `form:"passwordVerify"`
+	Gender         int    `form:"gender"`
 	Birthday       string `form:"birthday"`
-	Tel            string    `form:"tel"`
-	Email          string    `form:"email"`
-	Addr           string    `form:"addr"`
-	Remark         string    `form:"remark"`
+	Tel            string `form:"tel"`
+	Email          string `form:"email"`
+	Addr           string `form:"addr"`
+	Remark         string `form:"remark"`
 
 	BirthdayTime *time.Time
 }
@@ -62,14 +62,14 @@ func (f *UserCreateForm) Valid(v *validation.Validation) {
 }
 
 type UserModifyForm struct {
-	Id         int       `form:"id"`
-	Name       string    `form:"name"`
-	Gender     int       `form:"gender"`
-	Birthday   string `form:"birthday"`
-	Tel        string    `form:"tel"`
-	Email      string    `form:"email"`
-	Addr       string    `form:"addr"`
-	Remark     string    `form:"remark"`
+	Id       int    `form:"id"`
+	Name     string `form:"name"`
+	Gender   int    `form:"gender"`
+	Birthday string `form:"birthday"`
+	Tel      string `form:"tel"`
+	Email    string `form:"email"`
+	Addr     string `form:"addr"`
+	Remark   string `form:"remark"`
 
 	BirthdayTime *time.Time
 }

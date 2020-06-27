@@ -11,9 +11,9 @@ import (
 	"github.com/astaxie/beego/orm"
 	_ "github.com/go-sql-driver/mysql"
 
-	"github.com/imsilence/gocmdb/server/models"
-	_ "github.com/imsilence/gocmdb/server/routers"
-	"github.com/imsilence/gocmdb/server/utils"
+	"github.com/JevonWei/gocmdb/server/models"
+	_ "github.com/JevonWei/gocmdb/server/routers"
+	"github.com/JevonWei/gocmdb/server/utils"
 )
 
 func main() {

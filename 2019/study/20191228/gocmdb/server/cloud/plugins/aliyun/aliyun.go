@@ -1,9 +1,9 @@
 package aliyun
 
 import (
+	"github.com/JevonWei/gocmdb/server/cloud"
 	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/requests"
 	"github.com/aliyun/alibaba-cloud-sdk-go/services/ecs"
-	"github.com/imsilence/gocmdb/server/cloud"
 )
 
 type AliyunCloud struct {
@@ -57,10 +57,10 @@ func (c *AliyunCloud) TestConnect() error {
 
 func (c *AliyunCloud) transformStatus(status string) string {
 	smap := map[string]string{
-		"Stopped":       cloud.StatusStopped,
-		"Running":       cloud.StatusRunning,
-		"Starting":      cloud.StatusStarting,
-		"Stopping":       cloud.StatusStopping,
+		"Stopped":  cloud.StatusStopped,
+		"Running":  cloud.StatusRunning,
+		"Starting": cloud.StatusStarting,
+		"Stopping": cloud.StatusStopping,
 	}
 
 	if rt, ok := smap[status]; ok {
@@ -85,7 +85,7 @@ func (c *AliyunCloud) GetInstance() []*cloud.Instance {
 		}
 		rt = append(rt, instances...)
 	}
-	
+
 	return rt
 }
 
@@ -121,7 +121,6 @@ func (c *AliyunCloud) getInstanceByOffsetLimit(offset, limit int) (int, []*cloud
 
 		privateAddrs = append(privateAddrs, instance.InnerIpAddress.IpAddress...)
 		privateAddrs = append(instance.VpcAttributes.PrivateIpAddress.IpAddress)
-		
 
 		rt[index] = &cloud.Instance{
 			UUID:         instance.InstanceId,

@@ -8,8 +8,8 @@ import (
 	"github.com/astaxie/beego/context"
 	"github.com/astaxie/beego/validation"
 
-	"github.com/imsilence/gocmdb/server/forms"
-	"github.com/imsilence/gocmdb/server/models"
+	"github.com/JevonWei/gocmdb/server/forms"
+	"github.com/JevonWei/gocmdb/server/models"
 )
 
 type Session struct {

@@ -1,9 +1,9 @@
 package auth
 
 import (
-	"github.com/imsilence/gocmdb/server/controllers/base"
+	"github.com/JevonWei/gocmdb/server/controllers/base"
 
-	"github.com/imsilence/gocmdb/server/models"
+	"github.com/JevonWei/gocmdb/server/models"
 )
 
 type LoginRequiredController struct {

@@ -3,8 +3,8 @@ package v1
 import (
 	"encoding/json"
 
-	"github.com/imsilence/gocmdb/server/controllers/api"
-	"github.com/imsilence/gocmdb/server/models"
+	"github.com/JevonWei/gocmdb/server/controllers/api"
+	"github.com/JevonWei/gocmdb/server/models"
 )
 
 type APIController struct {

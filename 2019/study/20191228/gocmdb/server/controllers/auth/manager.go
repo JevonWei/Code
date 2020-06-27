@@ -3,7 +3,7 @@ package auth
 import (
 	"github.com/astaxie/beego/context"
 
-	"github.com/imsilence/gocmdb/server/models"
+	"github.com/JevonWei/gocmdb/server/models"
 )
 
 type AuthPlugin interface {

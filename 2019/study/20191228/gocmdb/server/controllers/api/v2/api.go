@@ -3,9 +3,9 @@ package v2
 import (
 	"encoding/json"
 
+	"github.com/JevonWei/gocmdb/server/controllers/api"
+	"github.com/JevonWei/gocmdb/server/models"
 	"github.com/astaxie/beego"
-	"github.com/imsilence/gocmdb/server/controllers/api"
-	"github.com/imsilence/gocmdb/server/models"
 )
 
 type APIController struct {

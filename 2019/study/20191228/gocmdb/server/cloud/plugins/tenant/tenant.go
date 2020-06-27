@@ -1,7 +1,7 @@
 package tenant
 
 import (
-	"github.com/imsilence/gocmdb/server/cloud"
+	"github.com/JevonWei/gocmdb/server/cloud"
 	"github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common"
 
 	//"github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common/errors"

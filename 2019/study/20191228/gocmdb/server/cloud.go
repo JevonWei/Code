@@ -6,12 +6,12 @@ import (
 	"os"
 	"time"
 
+	"github.com/JevonWei/gocmdb/server/cloud"
+	_ "github.com/JevonWei/gocmdb/server/cloud/plugins"
+	"github.com/JevonWei/gocmdb/server/models"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/imsilence/gocmdb/server/cloud"
-	_ "github.com/imsilence/gocmdb/server/cloud/plugins"
-	"github.com/imsilence/gocmdb/server/models"
 )
 
 func main() {

@@ -3,9 +3,9 @@ package forms
 import (
 	"strings"
 
+	"github.com/JevonWei/gocmdb/server/cloud"
+	"github.com/JevonWei/gocmdb/server/models"
 	"github.com/astaxie/beego/validation"
-	"github.com/imsilence/gocmdb/server/cloud"
-	"github.com/imsilence/gocmdb/server/models"
 )
 
 type CloudPlatformCreateForm struct {

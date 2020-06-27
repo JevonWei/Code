@@ -3,10 +3,10 @@ package routers
 import (
 	"github.com/astaxie/beego"
 
-	"github.com/imsilence/gocmdb/server/controllers"
-	v1 "github.com/imsilence/gocmdb/server/controllers/api/v1"
-	v2 "github.com/imsilence/gocmdb/server/controllers/api/v2"
-	"github.com/imsilence/gocmdb/server/controllers/auth"
+	"github.com/JevonWei/gocmdb/server/controllers"
+	v1 "github.com/JevonWei/gocmdb/server/controllers/api/v1"
+	v2 "github.com/JevonWei/gocmdb/server/controllers/api/v2"
+	"github.com/JevonWei/gocmdb/server/controllers/auth"
 )
 
 func init() {

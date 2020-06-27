@@ -3,10 +3,10 @@ package controllers
 import (
 	"strings"
 
+	"github.com/JevonWei/gocmdb/server/controllers/auth"
+	"github.com/JevonWei/gocmdb/server/forms"
+	"github.com/JevonWei/gocmdb/server/models"
 	"github.com/astaxie/beego/validation"
-	"github.com/imsilence/gocmdb/server/controllers/auth"
-	"github.com/imsilence/gocmdb/server/forms"
-	"github.com/imsilence/gocmdb/server/models"
 )
 
 type AgentPageController struct {

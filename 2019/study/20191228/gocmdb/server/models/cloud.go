@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/JevonWei/gocmdb/server/cloud"
 	"github.com/astaxie/beego/orm"
-	"github.com/imsilence/gocmdb/server/cloud"
 )
 
 type CloudPlatform struct {

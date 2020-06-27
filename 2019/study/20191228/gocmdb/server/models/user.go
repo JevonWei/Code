@@ -6,7 +6,7 @@ import (
 
 	"github.com/astaxie/beego/orm"
 
-	"github.com/imsilence/gocmdb/server/utils"
+	"github.com/JevonWei/gocmdb/server/utils"
 )
 
 type User struct {

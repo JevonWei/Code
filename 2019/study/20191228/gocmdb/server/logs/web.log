@@ -8146,3 +8146,5 @@
 2019/12/28 23:22:56.160 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     5.9823ms|   match|[46m POST    [0m /v2/api/heartbeat/7867958d54e343c79c4fcb0495bd5b92/   r:/v2api/heartbeat/:uuid/
 2019/12/28 23:22:58.406 [D] [server.go:2774]  |            ::1|[42m 200 [0m|     4.9846ms|   match|[46m POST    [0m /v2/api/register/7867958d54e343c79c4fcb0495bd5b92/   r:/v2api/register/:uuid/
 2019/12/28 23:22:59.408 [D] [server.go:2774]  |            ::1|[42m 200 [0m|      6.981ms|   match|[46m POST    [0m /v2/api/log/7867958d54e343c79c4fcb0495bd5b92/   r:/v2api/log/:uuid/
+2020/06/27 17:51:58.226 [I] [asm_amd64.s:1337]  http server Running on http://:8080
+2020/06/27 17:52:30.601 [I] [asm_amd64.s:1337]  http server Running on http://:8080
